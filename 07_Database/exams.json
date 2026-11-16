@@ -1604,5 +1604,43 @@
       ]
     },
     "document_path": "01_Competitive_Exams/International_Exams/Other_Exams/IELTS_Academic.md"
+  },
+  {
+    "id": "SEBI_GRADE_A_IT",
+    "name": "SEBI Officer Grade A (Assistant Manager) \u2013 Information Technology Stream",
+    "short_name": "SEBI Grade A IT",
+    "category": "Banking",
+    "sub_category": "Regulatory_Body",
+    "country": "India",
+    "conducting_organization_id": "ORG_SEBI",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech.",
+      "Postgraduate",
+      "MCA",
+      "M.Sc."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 21,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Phase I On-Line Examination (Paper 1: GA/Quant/Reasoning/English + Paper 2: Specialized IT Domain)",
+      "Phase II On-Line Examination (Paper 1: English Descriptive + Paper 2: Specialized IT Technical / Hands-on Coding)",
+      "Phase III Interview"
+    ],
+    "official_website": "https://www.sebi.gov.in",
+    "application_portal": "https://www.sebi.gov.in/department/human-resources-department-37/career.html",
+    "exam_cycle": "Annual / Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_SEBI_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Banking/SEBI_Grade_A_IT.md"
   }
 ]

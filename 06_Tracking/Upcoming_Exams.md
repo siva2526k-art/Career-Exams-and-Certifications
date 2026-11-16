@@ -11,6 +11,7 @@
 | **SSC CHSL 2026** | SSC | April 2026 | May 2026 | June 2026 | July 2026 | Upcoming |
 | **IBPS PO 2026** | IBPS | August 2026 | August 2026 | October 2026 | October 2026 (Prelims) | Upcoming |
 | **SBI PO 2026** | SBI | September 2026 | October 2026 | November 2026 | November / December 2026 | Upcoming |
+| **SEBI Grade A IT 2026** | SEBI | March / April 2026 | May 2026 | June 2026 | June / July 2026 (Phase 1) | Active / Upcoming |
 | **RBI Grade B 2026** | RBI | July 2026 | August 2026 | September 2026 | September 2026 (Phase 1) | Upcoming |
 | **RRB NTPC 2026** | RRB | Dynamic CEN | 30 Days post CEN | 10 Days pre-exam | Multi-phase CBT | Notification Pending |
 | **AFCAT 1 2027** | Indian Air Force | December 2026 | December 2026 | February 2027 | February 2027 | Upcoming |

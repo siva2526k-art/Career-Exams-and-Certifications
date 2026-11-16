@@ -368,5 +368,15 @@
     "country": "United States",
     "official_website": "https://www.cfainstitute.org",
     "portal": "https://www.cfainstitute.org/en/programs/cfa"
+  },
+  {
+    "id": "ORG_SEBI",
+    "name": "Securities and Exchange Board of India",
+    "short_name": "SEBI",
+    "type": "Statutory Financial Regulatory Body (SEBI Act, 1992)",
+    "headquarters": "SEBI Bhavan, Plot No. C4-A, 'G' Block, Bandra Kurla Complex, Bandra (East), Mumbai, Maharashtra, India",
+    "country": "India",
+    "official_website": "https://www.sebi.gov.in",
+    "portal": "https://www.sebi.gov.in/department/human-resources-department-37/career.html"
   }
 ]

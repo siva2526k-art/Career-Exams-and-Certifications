@@ -243,5 +243,12 @@
     "url": "https://www.cfainstitute.org/en/programs/cfa",
     "domain_type": "Vendor_Official",
     "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_SEBI_OFFICIAL",
+    "title": "Securities and Exchange Board of India Official Recruitment Circulars",
+    "url": "https://www.sebi.gov.in/department/human-resources-department-37/career.html",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
   }
 ]

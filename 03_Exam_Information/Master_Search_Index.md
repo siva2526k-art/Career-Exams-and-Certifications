@@ -50,6 +50,7 @@ This document is generated automatically by `10_Automation/scripts/build_search_
 | `GMAT_FOCUS` | **Graduate Management Admission Test – Focus Edition** | International | Undergraduate, B.E., B.Tech. | [GMAT Focus Edition](01_Competitive_Exams/International_Exams/GMAT/GMAT_Focus_Edition.md) |
 | `TOEFL_IBT` | **Test of English as a Foreign Language Internet-Based Test** | International | 10th pass, 12th pass, Undergraduate | [TOEFL iBT](01_Competitive_Exams/International_Exams/Other_Exams/TOEFL_iBT.md) |
 | `IELTS_ACADEMIC` | **International English Language Testing System – Academic** | International | 10th pass, 12th pass, Undergraduate | [IELTS Academic](01_Competitive_Exams/International_Exams/Other_Exams/IELTS_Academic.md) |
+| `SEBI_GRADE_A_IT` | **SEBI Officer Grade A (Assistant Manager) – Information Technology Stream** | Banking | B.E., B.Tech., Postgraduate | [SEBI Grade A IT](01_Competitive_Exams/Government_Exams/Banking/SEBI_Grade_A_IT.md) |
 
 ## 2. Professional Certifications Quick Index
 

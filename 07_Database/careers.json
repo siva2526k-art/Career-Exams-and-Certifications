@@ -150,5 +150,22 @@
       "CERT_CISSP"
     ],
     "pay_band": "Market CTC Rs. 12,00,000 - 45,00,000+ p.a."
+  },
+  {
+    "id": "CAR_SEBI_IT_OFFICER",
+    "title": "SEBI Assistant Manager (Grade 'A') \u2013 Information Technology",
+    "sector": "Banking",
+    "classification": "Regulatory Body Officer (Grade A)",
+    "minimum_qualification": "B.E.",
+    "entry_exams": [
+      "SEBI_GRADE_A_IT"
+    ],
+    "recommended_certifications": [
+      "CERT_COMPTIA_SEC_PLUS",
+      "CERT_AWS_SAA",
+      "CERT_OSCP",
+      "CERT_CISSP"
+    ],
+    "pay_band": "Basic Rs. 55,200 + Special Allowances (Gross ~Rs. 1,55,000/mo without accommodation; Annual CTC Rs. 32-34 Lakhs)"
   }
 ]
