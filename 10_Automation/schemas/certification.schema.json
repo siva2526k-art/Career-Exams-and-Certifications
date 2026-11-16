@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CertificationRecord",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "issuing_organization_id",
+    "category",
+    "level",
+    "validity_years",
+    "official_website",
+    "verification",
+    "document_path"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "code": {
+      "type": "string"
+    },
+    "issuing_organization_id": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Cloud_Computing",
+        "Cybersecurity",
+        "Networking",
+        "Artificial_Intelligence",
+        "Machine_Learning",
+        "Data_Science",
+        "DevOps",
+        "Database",
+        "Operating_Systems",
+        "Programming",
+        "Software_Development",
+        "Academic",
+        "Management",
+        "Finance"
+      ]
+    },
+    "vendor": {
+      "type": "string"
+    },
+    "level": {
+      "type": "string",
+      "enum": [
+        "Foundational",
+        "Associate",
+        "Professional",
+        "Expert",
+        "Specialty"
+      ]
+    },
+    "cost_usd": {
+      "type": "number"
+    },
+    "cost_inr": {
+      "type": "number"
+    },
+    "validity_years": {
+      "type": "integer"
+    },
+    "prerequisites": {
+      "type": "string"
+    },
+    "official_website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "verification": {
+      "type": "object",
+      "required": [
+        "status",
+        "last_verified",
+        "sources"
+      ],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "Verified",
+            "Pending Update",
+            "Under Review"
+          ]
+        },
+        "last_verified": {
+          "type": "string"
+        },
+        "current_exam_version": {
+          "type": "string"
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "document_path": {
+      "type": "string"
+    }
+  }
+}

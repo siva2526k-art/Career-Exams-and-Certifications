@@ -1,0 +1,154 @@
+[
+  {
+    "id": "CAR_IAS_IPS",
+    "title": "Indian Administrative Service (IAS) / Indian Police Service (IPS)",
+    "sector": "Government",
+    "classification": "All India Services (Group A Gazetted)",
+    "minimum_qualification": "Undergraduate",
+    "entry_exams": [
+      "UPSC_CSE"
+    ],
+    "recommended_certifications": [],
+    "pay_band": "Pay Level 10 (Rs. 56,100) to Level 17 (Cabinet Secretary Rs. 2,50,000)"
+  },
+  {
+    "id": "CAR_IES_OFFICER",
+    "title": "Assistant Executive Engineer / Indian Engineering Services Officer",
+    "sector": "Government",
+    "classification": "Central Engineering Services (Group A Gazetted)",
+    "minimum_qualification": "B.E.",
+    "entry_exams": [
+      "UPSC_ESE"
+    ],
+    "recommended_certifications": [],
+    "pay_band": "Pay Level 10 (Rs. 56,100 - 1,77,500)"
+  },
+  {
+    "id": "CAR_SSC_ASO",
+    "title": "Assistant Section Officer (CSS / MEA / Intelligence Bureau)",
+    "sector": "Government",
+    "classification": "Group B Non-Gazetted",
+    "minimum_qualification": "Undergraduate",
+    "entry_exams": [
+      "SSC_CGL"
+    ],
+    "recommended_certifications": [],
+    "pay_band": "Pay Level 7 (Rs. 44,900 - 1,42,400)"
+  },
+  {
+    "id": "CAR_BANK_PO",
+    "title": "Bank Probationary Officer / Scale-I Management Trainee",
+    "sector": "Banking",
+    "classification": "Junior Management Grade Scale I (JMGS-I)",
+    "minimum_qualification": "Undergraduate",
+    "entry_exams": [
+      "IBPS_PO",
+      "SBI_PO"
+    ],
+    "recommended_certifications": [],
+    "pay_band": "Basic Rs. 48,480 + DA, Special Allowance, HRA (Gross ~Rs. 75,000/mo)"
+  },
+  {
+    "id": "CAR_RBI_MANAGER",
+    "title": "Reserve Bank of India Grade 'B' Officer",
+    "sector": "Banking",
+    "classification": "Manager Grade B",
+    "minimum_qualification": "Undergraduate",
+    "entry_exams": [
+      "RBI_GRADE_B"
+    ],
+    "recommended_certifications": [
+      "CERT_CFA_CHARTER"
+    ],
+    "pay_band": "Basic Rs. 55,200 + allowances (Total CTC approx Rs. 28-30 Lakhs p.a.)"
+  },
+  {
+    "id": "CAR_ISRO_SCIENTIST",
+    "title": "Scientist/Engineer 'SC' in Indian Space Programme",
+    "sector": "Research",
+    "classification": "Group A Gazetted Scientific Officer",
+    "minimum_qualification": "B.E.",
+    "entry_exams": [
+      "ISRO_ICRB_SC"
+    ],
+    "recommended_certifications": [
+      "CERT_K8S_CKA",
+      "CERT_AWS_SAA"
+    ],
+    "pay_band": "Pay Level 10 (Rs. 56,100 - 1,77,500 + PRIS Incentive)"
+  },
+  {
+    "id": "CAR_DRDO_SCIENTIST",
+    "title": "Scientist 'B' in Defence Research and Development",
+    "sector": "Research",
+    "classification": "Group A Gazetted Scientific Officer",
+    "minimum_qualification": "B.E.",
+    "entry_exams": [
+      "DRDO_RAC_SCIENTIST_B",
+      "GATE_CS",
+      "GATE_EC"
+    ],
+    "recommended_certifications": [
+      "CERT_COMPTIA_SEC_PLUS",
+      "CERT_OSCP"
+    ],
+    "pay_band": "Pay Level 10 (Rs. 56,100 - 1,77,500 + Professional Update Allowance)"
+  },
+  {
+    "id": "CAR_PSU_EXECUTIVE_TRAINEE",
+    "title": "Executive Trainee / Management Trainee in Maharatna PSU (ONGC, IOCL, NTPC, BHEL)",
+    "sector": "PSU",
+    "classification": "Executive Cadre (E-2 / E-3)",
+    "minimum_qualification": "B.E.",
+    "entry_exams": [
+      "PSU_GATE_RECRUITMENT",
+      "GATE_CS",
+      "GATE_EC"
+    ],
+    "recommended_certifications": [
+      "CERT_AWS_SAA"
+    ],
+    "pay_band": "IDA Scale Rs. 60,000 - 1,80,000 (Annual CTC Rs. 18 to 24 Lakhs)"
+  },
+  {
+    "id": "CAR_TNPSC_DEPUTY_COLLECTOR",
+    "title": "Deputy Collector / Deputy Superintendent of Police (DSP)",
+    "sector": "Government",
+    "classification": "Tamil Nadu State Civil Services (Group I)",
+    "minimum_qualification": "Undergraduate",
+    "entry_exams": [
+      "TNPSC_GROUP_I"
+    ],
+    "recommended_certifications": [],
+    "pay_band": "TN Revised Pay Level 22 (Rs. 56,100 - 2,05,700)"
+  },
+  {
+    "id": "CAR_CLOUD_ARCHITECT",
+    "title": "Enterprise Cloud Solutions Architect / Staff DevOps Engineer",
+    "sector": "Private",
+    "classification": "Senior / Staff Technical IC",
+    "minimum_qualification": "B.E.",
+    "entry_exams": [],
+    "recommended_certifications": [
+      "CERT_AWS_SAA",
+      "CERT_AZURE_SOLUTIONS_ARCHITECT",
+      "CERT_GCP_PCA",
+      "CERT_K8S_CKA"
+    ],
+    "pay_band": "Market CTC Rs. 25,00,000 - 65,00,000+ p.a."
+  },
+  {
+    "id": "CAR_SECURITY_ENGINEER",
+    "title": "Information Security Engineer / Penetration Tester / SOC Analyst",
+    "sector": "Private",
+    "classification": "Technical Specialist / Consultant",
+    "minimum_qualification": "Undergraduate",
+    "entry_exams": [],
+    "recommended_certifications": [
+      "CERT_COMPTIA_SEC_PLUS",
+      "CERT_OSCP",
+      "CERT_CISSP"
+    ],
+    "pay_band": "Market CTC Rs. 12,00,000 - 45,00,000+ p.a."
+  }
+]

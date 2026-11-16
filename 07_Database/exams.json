@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "UPSC_CSE",
+    "name": "Civil Services Examination",
+    "short_name": "UPSC CSE",
+    "category": "Central_Government",
+    "sub_category": "UPSC",
+    "country": "India",
+    "conducting_organization_id": "ORG_UPSC",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com.",
+      "Postgraduate"
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 21,
+      "max_general": 32
+    },
+    "exam_stages": [
+      "Preliminary Examination (Objective)",
+      "Main Examination (Written Descriptive)",
+      "Personality Test (Interview)"
+    ],
+    "official_website": "https://upsc.gov.in",
+    "application_portal": "https://upsconline.nic.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_UPSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/UPSC/UPSC_Civil_Services.md"
+  },
+  {
+    "id": "UPSC_ESE",
+    "name": "Engineering Services Examination",
+    "short_name": "UPSC ESE",
+    "category": "Central_Government",
+    "sub_category": "UPSC",
+    "country": "India",
+    "conducting_organization_id": "ORG_UPSC",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 21,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Stage-I Preliminary (Objective)",
+      "Stage-II Main (Conventional Descriptive)",
+      "Stage-III Personality Test"
+    ],
+    "official_website": "https://upsc.gov.in",
+    "application_portal": "https://upsconline.nic.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_UPSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/UPSC/UPSC_Engineering_Services.md"
+  },
+  {
+    "id": "UPSC_CDS",
+    "name": "Combined Defence Services Examination",
+    "short_name": "UPSC CDS",
+    "category": "Defence",
+    "sub_category": "UPSC",
+    "country": "India",
+    "conducting_organization_id": "ORG_UPSC",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 19,
+      "max_general": 24
+    },
+    "exam_stages": [
+      "Written Examination",
+      "SSB Interview (Stage 1 & Stage 2)",
+      "Medical Examination"
+    ],
+    "official_website": "https://upsc.gov.in",
+    "application_portal": "https://upsconline.nic.in",
+    "exam_cycle": "Biannual (CDS I & CDS II)",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_UPSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/UPSC/UPSC_Combined_Defence_Services.md"
+  },
+  {
+    "id": "UPSC_NDA",
+    "name": "National Defence Academy & Naval Academy Examination",
+    "short_name": "UPSC NDA",
+    "category": "Defence",
+    "sub_category": "UPSC",
+    "country": "India",
+    "conducting_organization_id": "ORG_UPSC",
+    "eligible_qualifications": [
+      "12th pass"
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 16,
+      "max_general": 19
+    },
+    "exam_stages": [
+      "Written Examination (Mathematics + GAT)",
+      "SSB Interview",
+      "Medical Board Examination"
+    ],
+    "official_website": "https://upsc.gov.in",
+    "application_portal": "https://upsconline.nic.in",
+    "exam_cycle": "Biannual (NDA I & NDA II)",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_UPSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/UPSC/UPSC_National_Defence_Academy.md"
+  },
+  {
+    "id": "SSC_CGL",
+    "name": "Combined Graduate Level Examination",
+    "short_name": "SSC CGL",
+    "category": "Central_Government",
+    "sub_category": "SSC",
+    "country": "India",
+    "conducting_organization_id": "ORG_SSC",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 32
+    },
+    "exam_stages": [
+      "Tier-1 Computer Based Examination (Qualifying)",
+      "Tier-2 Computer Based Examination (Merit)",
+      "DEST (Data Entry Skill Test) & DV"
+    ],
+    "official_website": "https://ssc.gov.in",
+    "application_portal": "https://ssc.gov.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_SSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/SSC/SSC_CGL.md"
+  },
+  {
+    "id": "SSC_CHSL",
+    "name": "Combined Higher Secondary Level (10+2) Examination",
+    "short_name": "SSC CHSL",
+    "category": "Central_Government",
+    "sub_category": "SSC",
+    "country": "India",
+    "conducting_organization_id": "ORG_SSC",
+    "eligible_qualifications": [
+      "12th pass"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 27
+    },
+    "exam_stages": [
+      "Tier-1 CBT (Screening)",
+      "Tier-2 CBT (Objective + Typing/Skill Test)",
+      "Document Verification"
+    ],
+    "official_website": "https://ssc.gov.in",
+    "application_portal": "https://ssc.gov.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_SSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/SSC/SSC_CHSL.md"
+  },
+  {
+    "id": "SSC_JE",
+    "name": "Junior Engineer (Civil, Mechanical & Electrical) Examination",
+    "short_name": "SSC JE",
+    "category": "Technical",
+    "sub_category": "SSC",
+    "country": "India",
+    "conducting_organization_id": "ORG_SSC",
+    "eligible_qualifications": [
+      "Diploma",
+      "B.E.",
+      "B.Tech."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Paper-I CBT (Objective)",
+      "Paper-II CBT (Core Technical Objective)",
+      "Document Verification"
+    ],
+    "official_website": "https://ssc.gov.in",
+    "application_portal": "https://ssc.gov.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_SSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/SSC/SSC_JE.md"
+  },
+  {
+    "id": "SSC_MTS",
+    "name": "Multi-Tasking (Non-Technical) Staff and Havaldar Examination",
+    "short_name": "SSC MTS",
+    "category": "Central_Government",
+    "sub_category": "SSC",
+    "country": "India",
+    "conducting_organization_id": "ORG_SSC",
+    "eligible_qualifications": [
+      "10th pass"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 27
+    },
+    "exam_stages": [
+      "Computer-Based Examination (Session 1 & Session 2)",
+      "PST/PET (Only for Havaldar)",
+      "Document Verification"
+    ],
+    "official_website": "https://ssc.gov.in",
+    "application_portal": "https://ssc.gov.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_SSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/SSC/SSC_MTS.md"
+  },
+  {
+    "id": "SSC_CPO",
+    "name": "Sub-Inspector in Delhi Police and Central Armed Police Forces Examination",
+    "short_name": "SSC CPO",
+    "category": "Police",
+    "sub_category": "SSC",
+    "country": "India",
+    "conducting_organization_id": "ORG_SSC",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 20,
+      "max_general": 25
+    },
+    "exam_stages": [
+      "Paper-1 CBT",
+      "Physical Standard Test (PST) & Physical Endurance Test (PET)",
+      "Paper-2 CBT (English Language)",
+      "Detailed Medical Examination (DME)"
+    ],
+    "official_website": "https://ssc.gov.in",
+    "application_portal": "https://ssc.gov.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_SSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/SSC/SSC_CPO.md"
+  },
+  {
+    "id": "IBPS_PO",
+    "name": "Common Recruitment Process for Probationary Officers / Management Trainees",
+    "short_name": "IBPS PO",
+    "category": "Banking",
+    "sub_category": "IBPS",
+    "country": "India",
+    "conducting_organization_id": "ORG_IBPS",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 20,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Online Preliminary Examination",
+      "Online Main Examination (Objective + Descriptive)",
+      "Common Interview"
+    ],
+    "official_website": "https://www.ibps.in",
+    "application_portal": "https://ibps.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_IBPS_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Banking/IBPS_PO.md"
+  },
+  {
+    "id": "IBPS_CLERK",
+    "name": "Common Recruitment Process for Clerical Cadre",
+    "short_name": "IBPS Clerk",
+    "category": "Banking",
+    "sub_category": "IBPS",
+    "country": "India",
+    "conducting_organization_id": "ORG_IBPS",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 20,
+      "max_general": 28
+    },
+    "exam_stages": [
+      "Online Preliminary Examination",
+      "Online Main Examination",
+      "Language Proficiency Test (LPT)"
+    ],
+    "official_website": "https://www.ibps.in",
+    "application_portal": "https://ibps.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_IBPS_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Banking/IBPS_Clerk.md"
+  },
+  {
+    "id": "IBPS_SO",
+    "name": "Common Recruitment Process for Specialist Officers (IT, Law, Rajbhasha, HR, Marketing, Agri)",
+    "short_name": "IBPS SO",
+    "category": "Banking",
+    "sub_category": "IBPS",
+    "country": "India",
+    "conducting_organization_id": "ORG_IBPS",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech.",
+      "Postgraduate",
+      "MCA"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 20,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Online Preliminary Examination",
+      "Online Main Examination (Professional Knowledge)",
+      "Interview"
+    ],
+    "official_website": "https://www.ibps.in",
+    "application_portal": "https://ibps.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_IBPS_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Banking/IBPS_SO.md"
+  },
+  {
+    "id": "SBI_PO",
+    "name": "State Bank of India Probationary Officers Examination",
+    "short_name": "SBI PO",
+    "category": "Banking",
+    "sub_category": "SBI",
+    "country": "India",
+    "conducting_organization_id": "ORG_SBI",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 21,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Phase-I Preliminary Examination",
+      "Phase-II Main Examination (Objective + Descriptive)",
+      "Phase-III (Psychometric Test, Group Discussion & Interview)"
+    ],
+    "official_website": "https://sbi.co.in",
+    "application_portal": "https://sbi.co.in/careers",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_SBI_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Banking/SBI_PO.md"
+  },
+  {
+    "id": "SBI_CLERK",
+    "name": "State Bank of India Junior Associates (Customer Support & Sales)",
+    "short_name": "SBI Clerk",
+    "category": "Banking",
+    "sub_category": "SBI",
+    "country": "India",
+    "conducting_organization_id": "ORG_SBI",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 20,
+      "max_general": 28
+    },
+    "exam_stages": [
+      "Phase-I Preliminary Exam",
+      "Phase-II Main Exam",
+      "Language Test"
+    ],
+    "official_website": "https://sbi.co.in",
+    "application_portal": "https://sbi.co.in/careers",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_SBI_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Banking/SBI_Clerk.md"
+  },
+  {
+    "id": "RBI_GRADE_B",
+    "name": "Reserve Bank of India Officers in Grade 'B' (General / DEPR / DSIM)",
+    "short_name": "RBI Grade B",
+    "category": "Banking",
+    "sub_category": "RBI",
+    "country": "India",
+    "conducting_organization_id": "ORG_RBI",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "Postgraduate"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 21,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Phase-I Online Examination",
+      "Phase-II Online Examination (Descriptive + Objective)",
+      "Phase-III Interview"
+    ],
+    "official_website": "https://www.rbi.org.in",
+    "application_portal": "https://opportunities.rbi.org.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_RBI_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Banking/RBI_Grade_B.md"
+  },
+  {
+    "id": "RBI_ASSISTANT",
+    "name": "Reserve Bank of India Assistant Recruitment Examination",
+    "short_name": "RBI Assistant",
+    "category": "Banking",
+    "sub_category": "RBI",
+    "country": "India",
+    "conducting_organization_id": "ORG_RBI",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 20,
+      "max_general": 28
+    },
+    "exam_stages": [
+      "Preliminary Exam",
+      "Main Exam",
+      "Language Proficiency Test (LPT)"
+    ],
+    "official_website": "https://www.rbi.org.in",
+    "application_portal": "https://opportunities.rbi.org.in",
+    "exam_cycle": "Annual / Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_RBI_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Banking/RBI_Assistant.md"
+  },
+  {
+    "id": "NABARD_GRADE_A",
+    "name": "NABARD Assistant Manager in Grade 'A' (Rural Development Banking Service)",
+    "short_name": "NABARD Grade A",
+    "category": "Banking",
+    "sub_category": "NABARD",
+    "country": "India",
+    "conducting_organization_id": "ORG_NABARD",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "Postgraduate"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 21,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Phase-I Preliminary Exam",
+      "Phase-II Main Exam",
+      "Phase-III Interview"
+    ],
+    "official_website": "https://www.nabard.org",
+    "application_portal": "https://www.nabard.org/careers",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_NABARD_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Banking/NABARD_Grade_A.md"
+  },
+  {
+    "id": "RRB_NTPC",
+    "name": "Non-Technical Popular Categories (Graduate & Undergraduate)",
+    "short_name": "RRB NTPC",
+    "category": "Railway",
+    "sub_category": "RRB",
+    "country": "India",
+    "conducting_organization_id": "ORG_RRB",
+    "eligible_qualifications": [
+      "12th pass",
+      "Undergraduate"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 33
+    },
+    "exam_stages": [
+      "1st Stage CBT (Screening)",
+      "2nd Stage CBT",
+      "CBAT / Typing Skill Test",
+      "Document Verification & Medical"
+    ],
+    "official_website": "https://indianrailways.gov.in",
+    "application_portal": "https://www.rrbapply.gov.in",
+    "exam_cycle": "Annual / Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_RRB_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Railway/RRB_NTPC.md"
+  },
+  {
+    "id": "RRB_JE",
+    "name": "Railway Junior Engineer (Civil, Mechanical, Electrical, Electronics, IT)",
+    "short_name": "RRB JE",
+    "category": "Railway",
+    "sub_category": "RRB",
+    "country": "India",
+    "conducting_organization_id": "ORG_RRB",
+    "eligible_qualifications": [
+      "Diploma",
+      "B.E.",
+      "B.Tech."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 33
+    },
+    "exam_stages": [
+      "1st Stage CBT",
+      "2nd Stage CBT (Technical Abilities)",
+      "Document Verification & Medical Exam"
+    ],
+    "official_website": "https://indianrailways.gov.in",
+    "application_portal": "https://www.rrbapply.gov.in",
+    "exam_cycle": "Annual / Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_RRB_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Railway/RRB_JE.md"
+  },
+  {
+    "id": "RRB_ALP",
+    "name": "Assistant Loco Pilot Examination",
+    "short_name": "RRB ALP",
+    "category": "Railway",
+    "sub_category": "RRB",
+    "country": "India",
+    "conducting_organization_id": "ORG_RRB",
+    "eligible_qualifications": [
+      "10th pass",
+      "Diploma",
+      "B.E.",
+      "B.Tech."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "CBT-1",
+      "CBT-2 (Part A + Part B Trade Test)",
+      "Computer Based Aptitude Test (CBAT)",
+      "DV & Medical (A-1 Standard)"
+    ],
+    "official_website": "https://indianrailways.gov.in",
+    "application_portal": "https://www.rrbapply.gov.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_RRB_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Railway/RRB_ALP.md"
+  },
+  {
+    "id": "RRB_GROUP_D",
+    "name": "Railway Level-1 Recruitment (Track Maintainer, Pointsman, Assistant Workshop)",
+    "short_name": "RRB Group D",
+    "category": "Railway",
+    "sub_category": "RRB",
+    "country": "India",
+    "conducting_organization_id": "ORG_RRB",
+    "eligible_qualifications": [
+      "10th pass"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 33
+    },
+    "exam_stages": [
+      "Computer-Based Test (CBT)",
+      "Physical Efficiency Test (PET)",
+      "Document Verification and Medical Examination"
+    ],
+    "official_website": "https://indianrailways.gov.in",
+    "application_portal": "https://www.rrbapply.gov.in",
+    "exam_cycle": "Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_RRB_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Railway/RRB_Group_D.md"
+  },
+  {
+    "id": "DEFENCE_AFCAT",
+    "name": "Air Force Common Admission Test",
+    "short_name": "AFCAT",
+    "category": "Defence",
+    "sub_category": "IAF",
+    "country": "India",
+    "conducting_organization_id": "ORG_IAF",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 20,
+      "max_general": 26
+    },
+    "exam_stages": [
+      "Online CBT Examination",
+      "Air Force Selection Board (AFSB) Interview (5 Days)",
+      "Medical Examination"
+    ],
+    "official_website": "https://afcat.cdac.in",
+    "application_portal": "https://afcat.cdac.in",
+    "exam_cycle": "Biannual (AFCAT 1 & AFCAT 2)",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_AFCAT_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Defence/AFCAT.md"
+  },
+  {
+    "id": "DEFENCE_INET",
+    "name": "Indian Navy Entrance Test / Officer Entry Schemes",
+    "short_name": "INET / Navy Officers",
+    "category": "Defence",
+    "sub_category": "Navy",
+    "country": "India",
+    "conducting_organization_id": "ORG_INDIAN_NAVY",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech.",
+      "Postgraduate"
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 19,
+      "max_general": 24
+    },
+    "exam_stages": [
+      "Shortlisting via Degree Marks / INET Examination",
+      "SSB Interview",
+      "Medical Examination"
+    ],
+    "official_website": "https://www.joinindiannavy.gov.in",
+    "application_portal": "https://www.joinindiannavy.gov.in",
+    "exam_cycle": "Biannual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_NAVY_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Defence/INET.md"
+  },
+  {
+    "id": "DEFENCE_AGNIVEER",
+    "name": "Agnipath Scheme Armed Forces Recruitment (Army, Navy, Air Force)",
+    "short_name": "Agniveer Scheme",
+    "category": "Defence",
+    "sub_category": "Armed Forces",
+    "country": "India",
+    "conducting_organization_id": "ORG_INDIAN_ARMY",
+    "eligible_qualifications": [
+      "10th pass",
+      "12th pass"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 17,
+      "max_general": 21
+    },
+    "exam_stages": [
+      "Common Entrance Examination (CEE) CBT",
+      "Recruitment Rally PET/PST",
+      "Medical Examination"
+    ],
+    "official_website": "https://joinindianarmy.nic.in",
+    "application_portal": "https://joinindianarmy.nic.in",
+    "exam_cycle": "Biannual / Annual Rallies",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_ARMY_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Defence/Agniveer_Recruitment.md"
+  },
+  {
+    "id": "TNPSC_GROUP_I",
+    "name": "Combined Civil Services Examination-I (Group-I Services)",
+    "short_name": "TNPSC Group I",
+    "category": "State_Government",
+    "sub_category": "Tamil_Nadu",
+    "country": "India",
+    "conducting_organization_id": "ORG_TNPSC",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 21,
+      "max_general": 34
+    },
+    "exam_stages": [
+      "Preliminary Examination (Objective OMR)",
+      "Main Written Examination (Descriptive)",
+      "Oral Test (Interview)"
+    ],
+    "official_website": "https://www.tnpsc.gov.in",
+    "application_portal": "https://apply.tnpscexams.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_TNPSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/State_Government/Tamil_Nadu/TNPSC_Group_I.md"
+  },
+  {
+    "id": "TNPSC_GROUP_II",
+    "name": "Combined Civil Services Examination-II & IIA (Group-II & IIA Services)",
+    "short_name": "TNPSC Group II & IIA",
+    "category": "State_Government",
+    "sub_category": "Tamil_Nadu",
+    "country": "India",
+    "conducting_organization_id": "ORG_TNPSC",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 32
+    },
+    "exam_stages": [
+      "Preliminary Exam (Objective)",
+      "Main Written Exam (Paper 1 Tamil Qualifying + Paper 2 General Studies)",
+      "Oral Test (Interview for Group II only) / DV (Group IIA)"
+    ],
+    "official_website": "https://www.tnpsc.gov.in",
+    "application_portal": "https://apply.tnpscexams.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_TNPSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/State_Government/Tamil_Nadu/TNPSC_Group_II_and_IIA.md"
+  },
+  {
+    "id": "TNPSC_GROUP_IV",
+    "name": "Combined Civil Services Examination-IV (Group-IV Services & VAO)",
+    "short_name": "TNPSC Group IV",
+    "category": "State_Government",
+    "sub_category": "Tamil_Nadu",
+    "country": "India",
+    "conducting_organization_id": "ORG_TNPSC",
+    "eligible_qualifications": [
+      "10th pass"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 32
+    },
+    "exam_stages": [
+      "Single Stage Written Examination (OMR Objective)",
+      "Counselling and Document Verification"
+    ],
+    "official_website": "https://www.tnpsc.gov.in",
+    "application_portal": "https://apply.tnpscexams.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_TNPSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/State_Government/Tamil_Nadu/TNPSC_Group_IV.md"
+  },
+  {
+    "id": "TNPSC_COMBINED_TECHNICAL",
+    "name": "Combined Technical Services Examination (Diploma / Degree Level)",
+    "short_name": "TNPSC CTS",
+    "category": "Technical",
+    "sub_category": "Tamil_Nadu",
+    "country": "India",
+    "conducting_organization_id": "ORG_TNPSC",
+    "eligible_qualifications": [
+      "Diploma",
+      "B.E.",
+      "B.Tech."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 32
+    },
+    "exam_stages": [
+      "Computer Based Test (Paper 1 Tamil/GS + Paper 2 Core Discipline)",
+      "Interview / Document Verification"
+    ],
+    "official_website": "https://www.tnpsc.gov.in",
+    "application_portal": "https://apply.tnpscexams.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_TNPSC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/State_Government/Tamil_Nadu/TNPSC_Combined_Technical.md"
+  },
+  {
+    "id": "TNUSRB_SI",
+    "name": "Joint Recruitment for the Posts of Sub-Inspectors of Police (Taluk, AR, TSP)",
+    "short_name": "TNUSRB SI",
+    "category": "Police",
+    "sub_category": "Tamil_Nadu",
+    "country": "India",
+    "conducting_organization_id": "ORG_TNUSRB",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 20,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Part I Tamil Eligibility Test + Part II Main Written Exam",
+      "Certificate Verification & Physical Tests (PST/PET/ET)",
+      "Viva-Voce (Interview)"
+    ],
+    "official_website": "https://www.tnusrb.tn.gov.in",
+    "application_portal": "https://www.tnusrb.tn.gov.in",
+    "exam_cycle": "Annual / Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_TNUSRB_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Police/TNUSRB_Sub_Inspector.md"
+  },
+  {
+    "id": "TNUSRB_PC",
+    "name": "Common Recruitment for Police Constables, Jail Warders & Firemen",
+    "short_name": "TNUSRB Constable",
+    "category": "Police",
+    "sub_category": "Tamil_Nadu",
+    "country": "India",
+    "conducting_organization_id": "ORG_TNUSRB",
+    "eligible_qualifications": [
+      "10th pass"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 26
+    },
+    "exam_stages": [
+      "Tamil Eligibility + Main Written Exam",
+      "Certificate Verification, PST & PET",
+      "Special Marks Scrutiny & Medical"
+    ],
+    "official_website": "https://www.tnusrb.tn.gov.in",
+    "application_portal": "https://www.tnusrb.tn.gov.in",
+    "exam_cycle": "Annual / Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_TNUSRB_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Police/TNUSRB_Police_Constable.md"
+  },
+  {
+    "id": "TN_TRB_ASST_PROF",
+    "name": "Direct Recruitment of Assistant Professors in Government Arts & Science Colleges and Colleges of Education",
+    "short_name": "TN TRB Asst Prof",
+    "category": "Teaching",
+    "sub_category": "Tamil_Nadu",
+    "country": "India",
+    "conducting_organization_id": "ORG_TN_TRB",
+    "eligible_qualifications": [
+      "Postgraduate"
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 21,
+      "max_general": 57
+    },
+    "exam_stages": [
+      "Written Competitive Examination",
+      "Interview",
+      "Document Verification"
+    ],
+    "official_website": "https://trb.tn.gov.in",
+    "application_portal": "https://trb.tn.gov.in",
+    "exam_cycle": "Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_TN_TRB_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Government_Exams/Teaching/TN_TRB_Assistant_Professor.md"
+  },
+  {
+    "id": "GATE_CS",
+    "name": "Graduate Aptitude Test in Engineering \u2013 Computer Science and Information Technology",
+    "short_name": "GATE CS & IT",
+    "category": "Technical",
+    "sub_category": "Engineering",
+    "country": "India",
+    "conducting_organization_id": "ORG_GATE_COMMITTEE",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "Postgraduate",
+      "MCA",
+      "M.Sc."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 20,
+      "max_general": 99
+    },
+    "exam_stages": [
+      "Single-Stage Computer Based Test (3 Hours, 65 Questions, 100 Marks)"
+    ],
+    "official_website": "https://gate2026.iit.ac.in",
+    "application_portal": "https://goaps.iit.ac.in",
+    "exam_cycle": "Annual (Every February)",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_GATE_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Technical_Exams/GATE/GATE_Computer_Science_Information_Technology.md"
+  },
+  {
+    "id": "GATE_DA",
+    "name": "Graduate Aptitude Test in Engineering \u2013 Data Science and Artificial Intelligence",
+    "short_name": "GATE DA",
+    "category": "Technical",
+    "sub_category": "Engineering",
+    "country": "India",
+    "conducting_organization_id": "ORG_GATE_COMMITTEE",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "Postgraduate",
+      "M.Sc.",
+      "MCA"
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 20,
+      "max_general": 99
+    },
+    "exam_stages": [
+      "Single-Stage Computer Based Test (3 Hours, 65 Questions, 100 Marks)"
+    ],
+    "official_website": "https://gate2026.iit.ac.in",
+    "application_portal": "https://goaps.iit.ac.in",
+    "exam_cycle": "Annual (Every February)",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_GATE_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Technical_Exams/GATE/GATE_Data_Science_Artificial_Intelligence.md"
+  },
+  {
+    "id": "GATE_EC",
+    "name": "Graduate Aptitude Test in Engineering \u2013 Electronics and Communication Engineering",
+    "short_name": "GATE EC",
+    "category": "Technical",
+    "sub_category": "Engineering",
+    "country": "India",
+    "conducting_organization_id": "ORG_GATE_COMMITTEE",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 20,
+      "max_general": 99
+    },
+    "exam_stages": [
+      "Single-Stage Computer Based Test (3 Hours, 65 Questions, 100 Marks)"
+    ],
+    "official_website": "https://gate2026.iit.ac.in",
+    "application_portal": "https://goaps.iit.ac.in",
+    "exam_cycle": "Annual (Every February)",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_GATE_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Technical_Exams/GATE/GATE_Electronics_Communication.md"
+  },
+  {
+    "id": "ISRO_ICRB_SC",
+    "name": "Recruitment of Scientist/Engineer 'SC' with BE/B.Tech or Equivalent Degree",
+    "short_name": "ISRO Scientist 'SC'",
+    "category": "Technical",
+    "sub_category": "Space_Research",
+    "country": "India",
+    "conducting_organization_id": "ORG_ISRO",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 21,
+      "max_general": 28
+    },
+    "exam_stages": [
+      "Written Test (Part A Core + Part B General Aptitude)",
+      "Personal Interview (Minimum 60% cutoff)"
+    ],
+    "official_website": "https://www.isro.gov.in",
+    "application_portal": "https://www.isro.gov.in/Careers.html",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_ISRO_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Technical_Exams/ISRO/ISRO_Scientist_Engineer_SC.md"
+  },
+  {
+    "id": "DRDO_RAC_SCIENTIST_B",
+    "name": "Recruitment of Scientist 'B' in DRDO via RAC",
+    "short_name": "DRDO Scientist 'B'",
+    "category": "Technical",
+    "sub_category": "Defence_Research",
+    "country": "India",
+    "conducting_organization_id": "ORG_DRDO",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech.",
+      "Postgraduate",
+      "M.Sc."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 21,
+      "max_general": 28
+    },
+    "exam_stages": [
+      "GATE Score Screening / Written Examination",
+      "Personal Interview"
+    ],
+    "official_website": "https://www.drdo.gov.in",
+    "application_portal": "https://rac.gov.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_DRDO_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Technical_Exams/DRDO/DRDO_RAC_Scientist_B.md"
+  },
+  {
+    "id": "DRDO_CEPTAM_STA_B",
+    "name": "Centre for Personnel Talent Management \u2013 Senior Technical Assistant 'B'",
+    "short_name": "DRDO CEPTAM STA-B",
+    "category": "Technical",
+    "sub_category": "Defence_Research",
+    "country": "India",
+    "conducting_organization_id": "ORG_DRDO",
+    "eligible_qualifications": [
+      "Diploma",
+      "B.Sc."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 18,
+      "max_general": 28
+    },
+    "exam_stages": [
+      "Tier-I CBT (Screening)",
+      "Tier-II CBT (Core Subject Selection)",
+      "Document Verification"
+    ],
+    "official_website": "https://www.drdo.gov.in",
+    "application_portal": "https://www.drdo.gov.in",
+    "exam_cycle": "Annual / Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_DRDO_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Technical_Exams/DRDO/DRDO_CEPTAM_Senior_Technical_Assistant.md"
+  },
+  {
+    "id": "BARC_OCES_DGFS",
+    "name": "Orientation Course for Engineering Graduates and Science Postgraduates / DGFS",
+    "short_name": "BARC Scientific Officer",
+    "category": "Technical",
+    "sub_category": "Atomic_Energy",
+    "country": "India",
+    "conducting_organization_id": "ORG_BARC",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech.",
+      "Postgraduate",
+      "M.Sc."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 21,
+      "max_general": 26
+    },
+    "exam_stages": [
+      "Screening via Online CBT OR Valid GATE Score",
+      "In-depth Technical Interview (Purely Conceptual)"
+    ],
+    "official_website": "https://www.barc.gov.in",
+    "application_portal": "https://barcocesexam.in",
+    "exam_cycle": "Annual",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_BARC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Technical_Exams/BARC/BARC_OCES_DGFS_Scientific_Officer.md"
+  },
+  {
+    "id": "NIC_SCIENTIST_B",
+    "name": "National Informatics Centre Direct Recruitment of Scientist 'B' & Scientific Officer/Engineer-SB",
+    "short_name": "NIC Scientist 'B'",
+    "category": "Technical",
+    "sub_category": "IT_Electronics",
+    "country": "India",
+    "conducting_organization_id": "ORG_NIC",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech.",
+      "MCA",
+      "M.Sc."
+    ],
+    "final_year_eligible": false,
+    "age_limit": {
+      "min": 21,
+      "max_general": 30
+    },
+    "exam_stages": [
+      "Written Examination (Generic + Technical Computer Science)",
+      "Interview"
+    ],
+    "official_website": "https://www.nic.in",
+    "application_portal": "https://www.calicut.nielit.in/nic",
+    "exam_cycle": "Periodic",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_NIC_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Technical_Exams/NIC/NIC_Scientist_B.md"
+  },
+  {
+    "id": "PSU_GATE_RECRUITMENT",
+    "name": "Central Public Sector Undertakings (Maharatna/Navratna) Graduate Executive Trainee Recruitment",
+    "short_name": "PSU Recruitment via GATE",
+    "category": "Technical",
+    "sub_category": "PSU",
+    "country": "India",
+    "conducting_organization_id": "ORG_GATE_COMMITTEE",
+    "eligible_qualifications": [
+      "B.E.",
+      "B.Tech."
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 21,
+      "max_general": 28
+    },
+    "exam_stages": [
+      "Shortlisting via Valid GATE Score (85% weightage)",
+      "Group Discussion / Group Task (5%)",
+      "Personal Interview (10%)"
+    ],
+    "official_website": "https://gate2026.iit.ac.in",
+    "application_portal": "Individual PSU Career Portals",
+    "exam_cycle": "Annual (March-July post GATE results)",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "2026",
+      "sources": [
+        "SRC_GATE_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/Technical_Exams/PSU_Recruitment/Maharatna_Navratna_PSU_Through_GATE.md"
+  },
+  {
+    "id": "GRE_GENERAL",
+    "name": "Graduate Record Examinations General Test",
+    "short_name": "GRE",
+    "category": "International",
+    "sub_category": "Graduate_Admissions",
+    "country": "International",
+    "conducting_organization_id": "ORG_ETS",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com.",
+      "Postgraduate"
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 18,
+      "max_general": 99
+    },
+    "exam_stages": [
+      "Section-Level Adaptive Computer-Delivered Examination (1 Hour 58 Minutes)"
+    ],
+    "official_website": "https://www.ets.org/gre",
+    "application_portal": "https://www.ets.org/gre",
+    "exam_cycle": "Continuous Year-Round On-Demand",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "Current Edition",
+      "sources": [
+        "SRC_GRE_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/International_Exams/GRE/GRE_General_Test.md"
+  },
+  {
+    "id": "GMAT_FOCUS",
+    "name": "Graduate Management Admission Test \u2013 Focus Edition",
+    "short_name": "GMAT Focus Edition",
+    "category": "International",
+    "sub_category": "Business_School_Admissions",
+    "country": "International",
+    "conducting_organization_id": "ORG_GMAC",
+    "eligible_qualifications": [
+      "Undergraduate",
+      "B.E.",
+      "B.Tech.",
+      "B.Sc.",
+      "BCA",
+      "B.Com.",
+      "Postgraduate",
+      "Working professionals"
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 18,
+      "max_general": 99
+    },
+    "exam_stages": [
+      "Question-Level Adaptive Computer Test (2 Hours 15 Minutes: Quant, Verbal, Data Insights)"
+    ],
+    "official_website": "https://www.mba.com/exams/gmat-focus-edition",
+    "application_portal": "https://www.mba.com",
+    "exam_cycle": "Continuous Year-Round On-Demand",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "Current Edition",
+      "sources": [
+        "SRC_GMAT_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/International_Exams/GMAT/GMAT_Focus_Edition.md"
+  },
+  {
+    "id": "TOEFL_IBT",
+    "name": "Test of English as a Foreign Language Internet-Based Test",
+    "short_name": "TOEFL iBT",
+    "category": "International",
+    "sub_category": "Language_Proficiency",
+    "country": "International",
+    "conducting_organization_id": "ORG_ETS",
+    "eligible_qualifications": [
+      "10th pass",
+      "12th pass",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 16,
+      "max_general": 99
+    },
+    "exam_stages": [
+      "Single-Sitting CBT (Reading, Listening, Speaking, Writing - Under 2 Hours)"
+    ],
+    "official_website": "https://www.ets.org/toefl",
+    "application_portal": "https://www.ets.org/toefl",
+    "exam_cycle": "Continuous Year-Round On-Demand",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "Current Edition",
+      "sources": [
+        "SRC_TOEFL_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/International_Exams/Other_Exams/TOEFL_iBT.md"
+  },
+  {
+    "id": "IELTS_ACADEMIC",
+    "name": "International English Language Testing System \u2013 Academic",
+    "short_name": "IELTS Academic",
+    "category": "International",
+    "sub_category": "Language_Proficiency",
+    "country": "International",
+    "conducting_organization_id": "ORG_ETS",
+    "eligible_qualifications": [
+      "10th pass",
+      "12th pass",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "final_year_eligible": true,
+    "age_limit": {
+      "min": 16,
+      "max_general": 99
+    },
+    "exam_stages": [
+      "Listening, Reading, Writing (CBT or Paper) + Face-to-Face Speaking Interview"
+    ],
+    "official_website": "https://www.ielts.org",
+    "application_portal": "https://www.ielts.org",
+    "exam_cycle": "Continuous Year-Round On-Demand",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "verified_cycle": "Current Edition",
+      "sources": [
+        "SRC_IELTS_OFFICIAL"
+      ]
+    },
+    "document_path": "01_Competitive_Exams/International_Exams/Other_Exams/IELTS_Academic.md"
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ExaminationRecord",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "category",
+    "country",
+    "conducting_organization_id",
+    "eligible_qualifications",
+    "official_website",
+    "exam_cycle",
+    "verification",
+    "document_path"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "short_name": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Central_Government",
+        "State_Government",
+        "Banking",
+        "Railway",
+        "Defence",
+        "Technical",
+        "International",
+        "Teaching",
+        "Police",
+        "Other_Recruitment"
+      ]
+    },
+    "sub_category": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "conducting_organization_id": {
+      "type": "string"
+    },
+    "eligible_qualifications": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "final_year_eligible": {
+      "type": "boolean"
+    },
+    "age_limit": {
+      "type": "object",
+      "properties": {
+        "min": {
+          "type": "integer"
+        },
+        "max_general": {
+          "type": "integer"
+        }
+      }
+    },
+    "exam_stages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "official_website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "application_portal": {
+      "type": "string"
+    },
+    "exam_cycle": {
+      "type": "string"
+    },
+    "verification": {
+      "type": "object",
+      "required": [
+        "status",
+        "last_verified",
+        "sources"
+      ],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "Verified",
+            "Pending Notification",
+            "Under Review"
+          ]
+        },
+        "last_verified": {
+          "type": "string"
+        },
+        "verified_cycle": {
+          "type": "string"
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "document_path": {
+      "type": "string"
+    }
+  }
+}

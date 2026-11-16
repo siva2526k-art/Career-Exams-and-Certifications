@@ -1,0 +1,552 @@
+[
+  {
+    "id": "CERT_AWS_SAA",
+    "name": "AWS Certified Solutions Architect \u2013 Associate",
+    "code": "SAA-C03",
+    "issuing_organization_id": "ORG_AWS",
+    "category": "Cloud_Computing",
+    "vendor": "AWS",
+    "level": "Associate",
+    "cost_usd": 150,
+    "validity_years": 3,
+    "prerequisites": "None formal (1 year hands-on experience designing cloud solutions recommended)",
+    "official_website": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "SAA-C03",
+      "sources": [
+        "SRC_AWS_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Cloud_Computing/AWS_Solutions_Architect_Associate.md"
+  },
+  {
+    "id": "CERT_AZURE_SOLUTIONS_ARCHITECT",
+    "name": "Microsoft Certified: Azure Solutions Architect Expert",
+    "code": "AZ-305",
+    "issuing_organization_id": "ORG_MICROSOFT",
+    "category": "Cloud_Computing",
+    "vendor": "Microsoft",
+    "level": "Expert",
+    "cost_usd": 165,
+    "validity_years": 1,
+    "prerequisites": "Microsoft Certified: Azure Administrator Associate (AZ-104)",
+    "official_website": "https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "AZ-305",
+      "sources": [
+        "SRC_AZURE_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Cloud_Computing/Microsoft_Azure_Solutions_Architect_Expert.md"
+  },
+  {
+    "id": "CERT_GCP_PCA",
+    "name": "Google Cloud Certified \u2013 Professional Cloud Architect",
+    "code": "GCP-PCA",
+    "issuing_organization_id": "ORG_GOOGLE",
+    "category": "Cloud_Computing",
+    "vendor": "Google Cloud",
+    "level": "Professional",
+    "cost_usd": 200,
+    "validity_years": 2,
+    "prerequisites": "None formal (3+ years industry experience including 1+ year designing on GCP recommended)",
+    "official_website": "https://cloud.google.com/learn/certification/cloud-architect",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "PCA 2026 Revision",
+      "sources": [
+        "SRC_GCP_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Cloud_Computing/Google_Cloud_Professional_Cloud_Architect.md"
+  },
+  {
+    "id": "CERT_COMPTIA_SEC_PLUS",
+    "name": "CompTIA Security+",
+    "code": "SY0-701",
+    "issuing_organization_id": "ORG_COMPTIA",
+    "category": "Cybersecurity",
+    "vendor": "CompTIA",
+    "level": "Associate",
+    "cost_usd": 404,
+    "validity_years": 3,
+    "prerequisites": "CompTIA Network+ and 2 years hands-on security/networking experience recommended",
+    "official_website": "https://www.comptia.org/certifications/security",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "SY0-701",
+      "sources": [
+        "SRC_COMPTIA_SEC_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Cybersecurity/CompTIA_Security_Plus.md"
+  },
+  {
+    "id": "CERT_COMPTIA_CYSA_PLUS",
+    "name": "CompTIA Cybersecurity Analyst (CySA+)",
+    "code": "CS0-003",
+    "issuing_organization_id": "ORG_COMPTIA",
+    "category": "Cybersecurity",
+    "vendor": "CompTIA",
+    "level": "Professional",
+    "cost_usd": 404,
+    "validity_years": 3,
+    "prerequisites": "CompTIA Security+ or 4 years incident response / SOC experience recommended",
+    "official_website": "https://www.comptia.org/certifications/cybersecurity-analyst",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "CS0-003",
+      "sources": [
+        "SRC_COMPTIA_SEC_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Cybersecurity/CompTIA_CySA_Plus.md"
+  },
+  {
+    "id": "CERT_COMPTIA_PENTEST_PLUS",
+    "name": "CompTIA PenTest+",
+    "code": "PT0-002",
+    "issuing_organization_id": "ORG_COMPTIA",
+    "category": "Cybersecurity",
+    "vendor": "CompTIA",
+    "level": "Professional",
+    "cost_usd": 404,
+    "validity_years": 3,
+    "prerequisites": "CompTIA Security+ or 3-4 years practical penetration testing experience recommended",
+    "official_website": "https://www.comptia.org/certifications/pentest",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "PT0-002",
+      "sources": [
+        "SRC_COMPTIA_SEC_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Cybersecurity/CompTIA_PenTest_Plus.md"
+  },
+  {
+    "id": "CERT_CEH",
+    "name": "Certified Ethical Hacker (CEH v13 / AI)",
+    "code": "312-50",
+    "issuing_organization_id": "ORG_EC_COUNCIL",
+    "category": "Cybersecurity",
+    "vendor": "EC-Council",
+    "level": "Associate",
+    "cost_usd": 1199,
+    "validity_years": 3,
+    "prerequisites": "Official training or 2 years verifiable information security work experience",
+    "official_website": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "CEH v13",
+      "sources": [
+        "SRC_COMPTIA_SEC_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Cybersecurity/CEH_Certified_Ethical_Hacker.md"
+  },
+  {
+    "id": "CERT_OSCP",
+    "name": "OffSec Certified Professional (OSCP)",
+    "code": "PEN-200",
+    "issuing_organization_id": "ORG_OFFSEC",
+    "category": "Cybersecurity",
+    "vendor": "OffSec",
+    "level": "Professional",
+    "cost_usd": 1699,
+    "validity_years": 99,
+    "prerequisites": "Solid understanding of TCP/IP, Linux/Windows administration, scripting (Python/Bash)",
+    "official_website": "https://www.offsec.com/courses/pen-200/",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "PEN-200 24-hr Hands-On Exam",
+      "sources": [
+        "SRC_OFFSEC_OSCP_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Cybersecurity/OSCP_OffSec_Certified_Professional.md"
+  },
+  {
+    "id": "CERT_CISSP",
+    "name": "Certified Information Systems Security Professional",
+    "code": "CISSP-CAT",
+    "issuing_organization_id": "ORG_ISC2",
+    "category": "Cybersecurity",
+    "vendor": "(ISC)\u00b2",
+    "level": "Expert",
+    "cost_usd": 749,
+    "validity_years": 3,
+    "prerequisites": "5 years cumulative paid work experience in 2 or more of the 8 CISSP CBK domains",
+    "official_website": "https://www.isc2.org/certifications/cissp",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "CISSP 2026 Domain Refresh",
+      "sources": [
+        "SRC_ISC2_CISSP_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Cybersecurity/CISSP_Certified_Information_Systems_Security_Professional.md"
+  },
+  {
+    "id": "CERT_CISCO_CCNA",
+    "name": "Cisco Certified Network Associate",
+    "code": "200-301",
+    "issuing_organization_id": "ORG_CISCO",
+    "category": "Networking",
+    "vendor": "Cisco",
+    "level": "Associate",
+    "cost_usd": 300,
+    "validity_years": 3,
+    "prerequisites": "None formal (1+ year implementing and administering Cisco solutions recommended)",
+    "official_website": "https://www.cisco.com/c/en/us/training-events/career-certifications/associate/ccna.html",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "200-301 v1.1",
+      "sources": [
+        "SRC_CISCO_CCNA_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Networking/Cisco_CCNA_200_301.md"
+  },
+  {
+    "id": "CERT_CISCO_CCNP_ENTERPRISE",
+    "name": "Cisco Certified Network Professional \u2013 Enterprise",
+    "code": "350-401 ENCOR + Concentration",
+    "issuing_organization_id": "ORG_CISCO",
+    "category": "Networking",
+    "vendor": "Cisco",
+    "level": "Professional",
+    "cost_usd": 700,
+    "validity_years": 3,
+    "prerequisites": "3-5 years implementing enterprise networking solutions recommended",
+    "official_website": "https://www.cisco.com/c/en/us/training-events/career-certifications/professional/ccnp-enterprise.html",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "ENCOR 350-401 v1.1",
+      "sources": [
+        "SRC_CISCO_CCNA_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Networking/Cisco_CCNP_Enterprise.md"
+  },
+  {
+    "id": "CERT_COMPTIA_NETWORK_PLUS",
+    "name": "CompTIA Network+",
+    "code": "N10-008 / N10-009",
+    "issuing_organization_id": "ORG_COMPTIA",
+    "category": "Networking",
+    "vendor": "CompTIA",
+    "level": "Associate",
+    "cost_usd": 392,
+    "validity_years": 3,
+    "prerequisites": "CompTIA A+ or 9-12 months networking support experience",
+    "official_website": "https://www.comptia.org/certifications/network",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "N10-009",
+      "sources": [
+        "SRC_COMPTIA_SEC_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Networking/CompTIA_Network_Plus.md"
+  },
+  {
+    "id": "CERT_TENSORFLOW_DEV",
+    "name": "TensorFlow Developer Certificate",
+    "code": "TF-DEV",
+    "issuing_organization_id": "ORG_GOOGLE",
+    "category": "Artificial_Intelligence",
+    "vendor": "Google",
+    "level": "Associate",
+    "cost_usd": 100,
+    "validity_years": 3,
+    "prerequisites": "Proficiency in Python, TensorFlow deep learning models, CNNs, RNNs, and NLP",
+    "official_website": "https://www.tensorflow.org/certificate",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "TF 2.x Environment",
+      "sources": [
+        "SRC_GCP_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Artificial_Intelligence/TensorFlow_Developer_Certificate.md"
+  },
+  {
+    "id": "CERT_AWS_ML_SPECIALTY",
+    "name": "AWS Certified Machine Learning \u2013 Specialty",
+    "code": "MLS-C01",
+    "issuing_organization_id": "ORG_AWS",
+    "category": "Machine_Learning",
+    "vendor": "AWS",
+    "level": "Specialty",
+    "cost_usd": 300,
+    "validity_years": 3,
+    "prerequisites": "1-2 years experience developing, architecting, or running ML workloads on AWS",
+    "official_website": "https://aws.amazon.com/certification/certified-machine-learning-specialty/",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "MLS-C01",
+      "sources": [
+        "SRC_AWS_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Machine_Learning/AWS_Certified_Machine_Learning_Specialty.md"
+  },
+  {
+    "id": "CERT_DEEPLEARNING_GENAI",
+    "name": "DeepLearning.AI Generative AI Professional Certificate",
+    "code": "DL-GENAI-PRO",
+    "issuing_organization_id": "ORG_GOOGLE",
+    "category": "Artificial_Intelligence",
+    "vendor": "DeepLearning.AI",
+    "level": "Professional",
+    "cost_usd": 240,
+    "validity_years": 99,
+    "prerequisites": "Intermediate Python programming, foundational knowledge of PyTorch/TensorFlow",
+    "official_website": "https://www.deeplearning.ai",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "LLM & GenAI Specialization 2026",
+      "sources": [
+        "SRC_GCP_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Artificial_Intelligence/DeepLearning_AI_GenAI_Professional.md"
+  },
+  {
+    "id": "CERT_K8S_CKA",
+    "name": "Certified Kubernetes Administrator (CKA)",
+    "code": "CKA",
+    "issuing_organization_id": "ORG_CNCF",
+    "category": "DevOps",
+    "vendor": "CNCF / Linux Foundation",
+    "level": "Professional",
+    "cost_usd": 395,
+    "validity_years": 2,
+    "prerequisites": "Hands-on experience with Linux CLI, container runtimes, and Kubernetes clusters",
+    "official_website": "https://www.cncf.io/certification/cka/",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "Kubernetes v1.31 Performance Lab",
+      "sources": [
+        "SRC_K8S_CKA_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/DevOps/CKA_Certified_Kubernetes_Administrator.md"
+  },
+  {
+    "id": "CERT_TERRAFORM_ASSOCIATE",
+    "name": "HashiCorp Certified: Terraform Associate",
+    "code": "003",
+    "issuing_organization_id": "ORG_HASHICORP",
+    "category": "DevOps",
+    "vendor": "HashiCorp",
+    "level": "Associate",
+    "cost_usd": 70,
+    "validity_years": 2,
+    "prerequisites": "Basic terminal skills and foundational cloud infrastructure understanding",
+    "official_website": "https://www.hashicorp.com/certification/terraform-associate",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "TA-003",
+      "sources": [
+        "SRC_K8S_CKA_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/DevOps/HashiCorp_Certified_Terraform_Associate.md"
+  },
+  {
+    "id": "CERT_REDHAT_RHCSA",
+    "name": "Red Hat Certified System Administrator",
+    "code": "EX200",
+    "issuing_organization_id": "ORG_RED_HAT",
+    "category": "Operating_Systems",
+    "vendor": "Red Hat",
+    "level": "Associate",
+    "cost_usd": 400,
+    "validity_years": 3,
+    "prerequisites": "Red Hat System Administration I & II or equivalent real-world Linux experience",
+    "official_website": "https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "RHEL 9 Practical Lab",
+      "sources": [
+        "SRC_REDHAT_RHCSA_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Operating_Systems/RHCSA_Red_Hat_Certified_System_Administrator.md"
+  },
+  {
+    "id": "CERT_ORACLE_JAVA_SE",
+    "name": "Oracle Certified Professional: Java SE Developer",
+    "code": "1Z0-819 / 1Z0-829",
+    "issuing_organization_id": "ORG_ORACLE",
+    "category": "Programming",
+    "vendor": "Oracle",
+    "level": "Professional",
+    "cost_usd": 245,
+    "validity_years": 99,
+    "prerequisites": "Strong fluency in object-oriented programming, concurrency, streams, and modules",
+    "official_website": "https://education.oracle.com/oracle-certified-professional-java-se-17-developer/pexam_1Z0-829",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "Java SE 17/21 LTS",
+      "sources": [
+        "SRC_COMPTIA_SEC_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Programming/Oracle_Certified_Professional_Java_SE.md"
+  },
+  {
+    "id": "CERT_PYTHON_PCAP",
+    "name": "Certified Associate in Python Programming (PCAP)",
+    "code": "PCAP-31-03",
+    "issuing_organization_id": "ORG_COMPTIA",
+    "category": "Programming",
+    "vendor": "Python Institute",
+    "level": "Associate",
+    "cost_usd": 295,
+    "validity_years": 99,
+    "prerequisites": "Fundamental knowledge of Python syntax, data structures, and OOP principles",
+    "official_website": "https://pythoninstitute.org/pcap",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "PCAP-31-03",
+      "sources": [
+        "SRC_COMPTIA_SEC_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Programming/Python_Institute_PCAP.md"
+  },
+  {
+    "id": "CERT_MONGODB_DEV",
+    "name": "MongoDB Certified Developer Associate",
+    "code": "C100DEV",
+    "issuing_organization_id": "ORG_MONGODB",
+    "category": "Database",
+    "vendor": "MongoDB",
+    "level": "Associate",
+    "cost_usd": 150,
+    "validity_years": 99,
+    "prerequisites": "Software engineering experience building applications with MongoDB and Aggregation Framework",
+    "official_website": "https://learn.mongodb.com/pages/certification",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "C100DEV 2026",
+      "sources": [
+        "SRC_COMPTIA_SEC_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Computer_Science/Database/MongoDB_Certified_Developer_Associate.md"
+  },
+  {
+    "id": "CERT_NPTEL_ELITE_GOLD",
+    "name": "NPTEL Elite + Gold Domain Scholar Certification",
+    "code": "NPTEL-GOLD",
+    "issuing_organization_id": "ORG_NPTEL",
+    "category": "Academic",
+    "vendor": "NPTEL / IIT Madras",
+    "level": "Specialty",
+    "cost_inr": 1000,
+    "validity_years": 99,
+    "prerequisites": "Completion of 6 approved 12-week core courses in domain with score >= 90%",
+    "official_website": "https://nptel.ac.in",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "Semester Proctored Exam Cycle",
+      "sources": [
+        "SRC_NPTEL_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Academic_Certifications/NPTEL/NPTEL_Elite_Gold_Domain_Certification.md"
+  },
+  {
+    "id": "CERT_SWAYAM_CREDIT",
+    "name": "SWAYAM National Academic Credit Transfer Certification",
+    "code": "SWAYAM-UGC",
+    "issuing_organization_id": "ORG_NPTEL",
+    "category": "Academic",
+    "vendor": "Ministry of Education / UGC",
+    "level": "Foundational",
+    "cost_inr": 1000,
+    "validity_years": 99,
+    "prerequisites": "Enrolled in recognized Indian University / College accepting UGC 20% MOOCs credit transfer",
+    "official_website": "https://swayam.gov.in",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "UGC Credit Framework",
+      "sources": [
+        "SRC_NPTEL_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Academic_Certifications/SWAYAM/SWAYAM_Academic_Credit_Certifications.md"
+  },
+  {
+    "id": "CERT_PMI_PMP",
+    "name": "Project Management Professional (PMP)",
+    "code": "PMP-ECO",
+    "issuing_organization_id": "ORG_PMI",
+    "category": "Management",
+    "vendor": "PMI",
+    "level": "Professional",
+    "cost_usd": 425,
+    "validity_years": 3,
+    "prerequisites": "36 months leading projects (with 4-year degree) + 35 contact hours PM training",
+    "official_website": "https://www.pmi.org/certifications/project-management-pmp",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "PMP ECO Predictive/Agile/Hybrid",
+      "sources": [
+        "SRC_PMI_PMP_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Other_Professional_Certifications/PMP_Project_Management_Professional.md"
+  },
+  {
+    "id": "CERT_CFA_CHARTER",
+    "name": "Chartered Financial Analyst (CFA Level I, II, III)",
+    "code": "CFA-L123",
+    "issuing_organization_id": "ORG_CFA_INSTITUTE",
+    "category": "Finance",
+    "vendor": "CFA Institute",
+    "level": "Expert",
+    "cost_usd": 1250,
+    "validity_years": 99,
+    "prerequisites": "Bachelor's degree or 4,000 hours qualified professional work experience",
+    "official_website": "https://www.cfainstitute.org/en/programs/cfa",
+    "verification": {
+      "status": "Verified",
+      "last_verified": "2026-11-16",
+      "current_exam_version": "CFA CBOK 2026",
+      "sources": [
+        "SRC_CFA_OFFICIAL"
+      ]
+    },
+    "document_path": "02_Professional_Certifications/Other_Professional_Certifications/CFA_Chartered_Financial_Analyst.md"
+  }
+]

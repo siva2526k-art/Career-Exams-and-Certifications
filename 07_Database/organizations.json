@@ -1,0 +1,372 @@
+[
+  {
+    "id": "ORG_UPSC",
+    "name": "Union Public Service Commission",
+    "short_name": "UPSC",
+    "type": "Constitutional Body (Article 315-323)",
+    "headquarters": "Dholpur House, Shahjahan Road, New Delhi, India",
+    "country": "India",
+    "official_website": "https://upsc.gov.in",
+    "portal": "https://upsconline.nic.in"
+  },
+  {
+    "id": "ORG_SSC",
+    "name": "Staff Selection Commission",
+    "short_name": "SSC",
+    "type": "Attached Office of DoPT, Government of India",
+    "headquarters": "Block No-12, CGO Complex, Lodhi Road, New Delhi, India",
+    "country": "India",
+    "official_website": "https://ssc.gov.in",
+    "portal": "https://ssc.gov.in"
+  },
+  {
+    "id": "ORG_IBPS",
+    "name": "Institute of Banking Personnel Selection",
+    "short_name": "IBPS",
+    "type": "Autonomous Recruitment Body",
+    "headquarters": "IBPS House, Kandivali (East), Mumbai, India",
+    "country": "India",
+    "official_website": "https://www.ibps.in",
+    "portal": "https://ibps.in"
+  },
+  {
+    "id": "ORG_SBI",
+    "name": "State Bank of India",
+    "short_name": "SBI",
+    "type": "Public Sector Bank / Statutory Corporation",
+    "headquarters": "State Bank Bhavan, Madame Cama Road, Nariman Point, Mumbai, India",
+    "country": "India",
+    "official_website": "https://sbi.co.in",
+    "portal": "https://sbi.co.in/careers"
+  },
+  {
+    "id": "ORG_RBI",
+    "name": "Reserve Bank of India Services Board",
+    "short_name": "RBI",
+    "type": "Central Bank Statutory Recruitment Board",
+    "headquarters": "RBI Building, Opp. Mumbai Central Railway Station, Byculla, Mumbai, India",
+    "country": "India",
+    "official_website": "https://www.rbi.org.in",
+    "portal": "https://opportunities.rbi.org.in"
+  },
+  {
+    "id": "ORG_NABARD",
+    "name": "National Bank for Agriculture and Rural Development",
+    "short_name": "NABARD",
+    "type": "Apex Development Bank",
+    "headquarters": "Plot C-24, G Block, Bandra Kurla Complex, BKC Road, Bandra East, Mumbai, India",
+    "country": "India",
+    "official_website": "https://www.nabard.org",
+    "portal": "https://www.nabard.org/careers"
+  },
+  {
+    "id": "ORG_RRB",
+    "name": "Railway Recruitment Control Board / Railway Recruitment Boards",
+    "short_name": "RRB",
+    "type": "Ministry of Railways, Government of India",
+    "headquarters": "Rail Bhavan, Raisina Road, New Delhi, India",
+    "country": "India",
+    "official_website": "https://indianrailways.gov.in",
+    "portal": "https://www.rrbapply.gov.in"
+  },
+  {
+    "id": "ORG_IAF",
+    "name": "Indian Air Force",
+    "short_name": "IAF",
+    "type": "Armed Forces Service Branch, Ministry of Defence",
+    "headquarters": "Vayu Bhavan, New Delhi, India",
+    "country": "India",
+    "official_website": "https://indianairforce.nic.in",
+    "portal": "https://afcat.cdac.in"
+  },
+  {
+    "id": "ORG_INDIAN_NAVY",
+    "name": "Indian Navy",
+    "short_name": "Indian Navy",
+    "type": "Armed Forces Service Branch, Ministry of Defence",
+    "headquarters": "Sena Bhavan, New Delhi, India",
+    "country": "India",
+    "official_website": "https://indiannavy.nic.in",
+    "portal": "https://www.joinindiannavy.gov.in"
+  },
+  {
+    "id": "ORG_INDIAN_ARMY",
+    "name": "Indian Army",
+    "short_name": "Indian Army",
+    "type": "Armed Forces Service Branch, Ministry of Defence",
+    "headquarters": "South Block, Integrated HQ of MoD (Army), New Delhi, India",
+    "country": "India",
+    "official_website": "https://indianarmy.nic.in",
+    "portal": "https://joinindianarmy.nic.in"
+  },
+  {
+    "id": "ORG_TNPSC",
+    "name": "Tamil Nadu Public Service Commission",
+    "short_name": "TNPSC",
+    "type": "State Constitutional Body (Article 315-323)",
+    "headquarters": "TNPSC Road, VOC Nagar, Park Town, Chennai, Tamil Nadu, India",
+    "country": "India",
+    "official_website": "https://www.tnpsc.gov.in",
+    "portal": "https://apply.tnpscexams.in"
+  },
+  {
+    "id": "ORG_TNUSRB",
+    "name": "Tamil Nadu Uniformed Services Recruitment Board",
+    "short_name": "TNUSRB",
+    "type": "State Statutory Recruitment Board",
+    "headquarters": "Old COP Office Campus, Pantheon Road, Egmore, Chennai, Tamil Nadu, India",
+    "country": "India",
+    "official_website": "https://www.tnusrb.tn.gov.in",
+    "portal": "https://www.tnusrb.tn.gov.in"
+  },
+  {
+    "id": "ORG_TN_TRB",
+    "name": "Teachers Recruitment Board, Tamil Nadu",
+    "short_name": "TN TRB",
+    "type": "State Departmental Recruitment Board",
+    "headquarters": "EVK Sampath Maaligai, DPI Campus, College Road, Chennai, Tamil Nadu, India",
+    "country": "India",
+    "official_website": "https://trb.tn.gov.in",
+    "portal": "https://trb.tn.gov.in"
+  },
+  {
+    "id": "ORG_GATE_COMMITTEE",
+    "name": "National Coordination Board \u2013 GATE / IITs & IISc",
+    "short_name": "GATE Committee",
+    "type": "Joint Apex Examination Committee (Ministry of Education)",
+    "headquarters": "Rotating IIT / IISc Bangalore, India",
+    "country": "India",
+    "official_website": "https://gate2026.iit.ac.in",
+    "portal": "https://goaps.iit.ac.in"
+  },
+  {
+    "id": "ORG_ISRO",
+    "name": "Indian Space Research Organisation / ISRO Centralised Recruitment Board",
+    "short_name": "ISRO ICRB",
+    "type": "Department of Space, Government of India",
+    "headquarters": "Antariksh Bhavan, New BEL Road, Bengaluru, Karnataka, India",
+    "country": "India",
+    "official_website": "https://www.isro.gov.in",
+    "portal": "https://www.isro.gov.in/Careers.html"
+  },
+  {
+    "id": "ORG_DRDO",
+    "name": "Defence Research and Development Organisation / RAC & CEPTAM",
+    "short_name": "DRDO",
+    "type": "Department of Defence R&D, Ministry of Defence",
+    "headquarters": "DRDO Bhavan, Rajaji Marg, New Delhi, India",
+    "country": "India",
+    "official_website": "https://www.drdo.gov.in",
+    "portal": "https://rac.gov.in"
+  },
+  {
+    "id": "ORG_BARC",
+    "name": "Bhabha Atomic Research Centre / Department of Atomic Energy",
+    "short_name": "BARC DAE",
+    "type": "Premier Nuclear Research Facility, Department of Atomic Energy",
+    "headquarters": "Trombay, Mumbai, Maharashtra, India",
+    "country": "India",
+    "official_website": "https://www.barc.gov.in",
+    "portal": "https://barcocesexam.in"
+  },
+  {
+    "id": "ORG_NIC",
+    "name": "National Informatics Centre / NIELIT Recruitment",
+    "short_name": "NIC",
+    "type": "Ministry of Electronics and Information Technology (MeitY)",
+    "headquarters": "A-Block, CGO Complex, Lodhi Road, New Delhi, India",
+    "country": "India",
+    "official_website": "https://www.nic.in",
+    "portal": "https://www.calicut.nielit.in/nic"
+  },
+  {
+    "id": "ORG_NTA",
+    "name": "National Testing Agency",
+    "short_name": "NTA",
+    "type": "Autonomous Testing Specialist Organization (Ministry of Education)",
+    "headquarters": "First Floor, NSIC-MDBP Building, Okhla Industrial Estate, New Delhi, India",
+    "country": "India",
+    "official_website": "https://nta.ac.in",
+    "portal": "https://ugcnet.nta.ac.in"
+  },
+  {
+    "id": "ORG_ETS",
+    "name": "Educational Testing Service",
+    "short_name": "ETS",
+    "type": "Global Educational Assessment & Research Body",
+    "headquarters": "Princeton, New Jersey, USA",
+    "country": "United States",
+    "official_website": "https://www.ets.org",
+    "portal": "https://www.ets.org/gre"
+  },
+  {
+    "id": "ORG_GMAC",
+    "name": "Graduate Management Admission Council",
+    "short_name": "GMAC",
+    "type": "Global Association of Leading Graduate Business Schools",
+    "headquarters": "Reston, Virginia, USA",
+    "country": "United States",
+    "official_website": "https://www.gmac.com",
+    "portal": "https://www.mba.com"
+  },
+  {
+    "id": "ORG_AWS",
+    "name": "Amazon Web Services, Inc.",
+    "short_name": "AWS",
+    "type": "Global Cloud Computing Vendor",
+    "headquarters": "Seattle, Washington, USA",
+    "country": "United States",
+    "official_website": "https://aws.amazon.com",
+    "portal": "https://aws.amazon.com/certification"
+  },
+  {
+    "id": "ORG_MICROSOFT",
+    "name": "Microsoft Corporation",
+    "short_name": "Microsoft",
+    "type": "Global Technology Corporation",
+    "headquarters": "Redmond, Washington, USA",
+    "country": "United States",
+    "official_website": "https://www.microsoft.com",
+    "portal": "https://learn.microsoft.com/certifications"
+  },
+  {
+    "id": "ORG_GOOGLE",
+    "name": "Google LLC / Google Cloud",
+    "short_name": "Google Cloud",
+    "type": "Global Technology Corporation",
+    "headquarters": "Mountain View, California, USA",
+    "country": "United States",
+    "official_website": "https://cloud.google.com",
+    "portal": "https://cloud.google.com/learn/certification"
+  },
+  {
+    "id": "ORG_CISCO",
+    "name": "Cisco Systems, Inc.",
+    "short_name": "Cisco",
+    "type": "Global Networking & Cybersecurity Vendor",
+    "headquarters": "San Jose, California, USA",
+    "country": "United States",
+    "official_website": "https://www.cisco.com",
+    "portal": "https://www.cisco.com/c/en/us/training-events/career-certifications.html"
+  },
+  {
+    "id": "ORG_COMPTIA",
+    "name": "Computing Technology Industry Association",
+    "short_name": "CompTIA",
+    "type": "Non-profit Trade Association & Certification Body",
+    "headquarters": "Downers Grove, Illinois, USA",
+    "country": "United States",
+    "official_website": "https://www.comptia.org",
+    "portal": "https://www.comptia.org/certifications"
+  },
+  {
+    "id": "ORG_RED_HAT",
+    "name": "Red Hat, Inc. (IBM Subsidiary)",
+    "short_name": "Red Hat",
+    "type": "Enterprise Open Source Software Provider",
+    "headquarters": "Raleigh, North Carolina, USA",
+    "country": "United States",
+    "official_website": "https://www.redhat.com",
+    "portal": "https://www.redhat.com/en/services/certification"
+  },
+  {
+    "id": "ORG_ORACLE",
+    "name": "Oracle Corporation",
+    "short_name": "Oracle",
+    "type": "Global Enterprise Database and Cloud Vendor",
+    "headquarters": "Austin, Texas, USA",
+    "country": "United States",
+    "official_website": "https://www.oracle.com",
+    "portal": "https://education.oracle.com"
+  },
+  {
+    "id": "ORG_OFFSEC",
+    "name": "Offensive Security (OffSec)",
+    "short_name": "OffSec",
+    "type": "Cybersecurity Training & Practical Certification Body",
+    "headquarters": "New York, NY, USA",
+    "country": "United States",
+    "official_website": "https://www.offsec.com",
+    "portal": "https://www.offsec.com/certifications"
+  },
+  {
+    "id": "ORG_ISC2",
+    "name": "International Information System Security Certification Consortium",
+    "short_name": "(ISC)\u00b2",
+    "type": "Non-profit Member Association for Cybersecurity Leaders",
+    "headquarters": "Alexandria, Virginia, USA",
+    "country": "United States",
+    "official_website": "https://www.isc2.org",
+    "portal": "https://www.isc2.org/certifications"
+  },
+  {
+    "id": "ORG_EC_COUNCIL",
+    "name": "International Council of E-Commerce Consultants",
+    "short_name": "EC-Council",
+    "type": "Cybersecurity Technical Certification Body",
+    "headquarters": "Albuquerque, New Mexico, USA",
+    "country": "United States",
+    "official_website": "https://www.eccouncil.org",
+    "portal": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh"
+  },
+  {
+    "id": "ORG_CNCF",
+    "name": "Cloud Native Computing Foundation / Linux Foundation",
+    "short_name": "CNCF / Linux Foundation",
+    "type": "Open Source Foundation & Certification Body",
+    "headquarters": "San Francisco, California, USA",
+    "country": "United States",
+    "official_website": "https://www.cncf.io",
+    "portal": "https://training.linuxfoundation.org/certification"
+  },
+  {
+    "id": "ORG_HASHICORP",
+    "name": "HashiCorp, Inc. (IBM Subsidiary)",
+    "short_name": "HashiCorp",
+    "type": "Cloud Infrastructure Automation Provider",
+    "headquarters": "San Francisco, California, USA",
+    "country": "United States",
+    "official_website": "https://www.hashicorp.com",
+    "portal": "https://www.hashicorp.com/certification"
+  },
+  {
+    "id": "ORG_MONGODB",
+    "name": "MongoDB, Inc.",
+    "short_name": "MongoDB",
+    "type": "Modern Database Platform Provider",
+    "headquarters": "New York, NY, USA",
+    "country": "United States",
+    "official_website": "https://www.mongodb.com",
+    "portal": "https://learn.mongodb.com/pages/certification"
+  },
+  {
+    "id": "ORG_NPTEL",
+    "name": "National Programme on Technology Enhanced Learning / SWAYAM",
+    "short_name": "NPTEL / IIT Madras",
+    "type": "Joint Initiative of IITs & IISc (Ministry of Education)",
+    "headquarters": "IC & SR Building, IIT Madras, Chennai, Tamil Nadu, India",
+    "country": "India",
+    "official_website": "https://nptel.ac.in",
+    "portal": "https://swayam.gov.in"
+  },
+  {
+    "id": "ORG_PMI",
+    "name": "Project Management Institute",
+    "short_name": "PMI",
+    "type": "Global Professional Association for Project Management",
+    "headquarters": "Newtown Square, Pennsylvania, USA",
+    "country": "United States",
+    "official_website": "https://www.pmi.org",
+    "portal": "https://www.pmi.org/certifications"
+  },
+  {
+    "id": "ORG_CFA_INSTITUTE",
+    "name": "CFA Institute",
+    "short_name": "CFA Institute",
+    "type": "Global Association of Investment Professionals",
+    "headquarters": "Charlottesville, Virginia, USA",
+    "country": "United States",
+    "official_website": "https://www.cfainstitute.org",
+    "portal": "https://www.cfainstitute.org/en/programs/cfa"
+  }
+]

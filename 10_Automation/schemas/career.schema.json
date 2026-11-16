@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CareerRecord",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "sector",
+    "minimum_qualification",
+    "entry_exams"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "sector": {
+      "type": "string",
+      "enum": [
+        "Government",
+        "PSU",
+        "Private",
+        "Research",
+        "Defence",
+        "Banking"
+      ]
+    },
+    "classification": {
+      "type": "string"
+    },
+    "minimum_qualification": {
+      "type": "string"
+    },
+    "entry_exams": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "recommended_certifications": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "pay_band": {
+      "type": "string"
+    }
+  }
+}

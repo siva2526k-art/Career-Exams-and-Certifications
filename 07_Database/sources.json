@@ -1,0 +1,247 @@
+[
+  {
+    "id": "SRC_UPSC_OFFICIAL",
+    "title": "Union Public Service Commission Official Notifications",
+    "url": "https://upsc.gov.in/examinations/active-examinations",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_SSC_OFFICIAL",
+    "title": "Staff Selection Commission Official Examination Notices",
+    "url": "https://ssc.gov.in/notice-board",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_IBPS_OFFICIAL",
+    "title": "IBPS Active Recruitment Circulars & Notifications",
+    "url": "https://www.ibps.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_SBI_OFFICIAL",
+    "title": "State Bank of India Career Notifications",
+    "url": "https://sbi.co.in/careers",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_RBI_OFFICIAL",
+    "title": "Reserve Bank of India Opportunities Portal",
+    "url": "https://opportunities.rbi.org.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_NABARD_OFFICIAL",
+    "title": "NABARD Career Notifications",
+    "url": "https://www.nabard.org/careers",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_RRB_OFFICIAL",
+    "title": "Indian Railways RRB Centralised Employment Notices (CEN)",
+    "url": "https://www.rrbapply.gov.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_AFCAT_OFFICIAL",
+    "title": "Indian Air Force AFCAT Candidate Notification",
+    "url": "https://afcat.cdac.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_NAVY_OFFICIAL",
+    "title": "Join Indian Navy Official Gazette Notices",
+    "url": "https://www.joinindiannavy.gov.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_ARMY_OFFICIAL",
+    "title": "Join Indian Army Recruitment Schemes & Agniveer",
+    "url": "https://joinindianarmy.nic.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_TNPSC_OFFICIAL",
+    "title": "Tamil Nadu Public Service Commission Notification Archives",
+    "url": "https://www.tnpsc.gov.in/english/notifications.aspx",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_TNUSRB_OFFICIAL",
+    "title": "TN Uniformed Services Recruitment Board Official Portal",
+    "url": "https://www.tnusrb.tn.gov.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_TN_TRB_OFFICIAL",
+    "title": "Tamil Nadu Teachers Recruitment Board Notices",
+    "url": "https://trb.tn.gov.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_GATE_OFFICIAL",
+    "title": "GATE Official Organizing Institute Information Brochure",
+    "url": "https://gate2026.iit.ac.in",
+    "domain_type": "Academic",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_ISRO_OFFICIAL",
+    "title": "ISRO Centralised Recruitment Board Notifications",
+    "url": "https://www.isro.gov.in/Careers.html",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_DRDO_OFFICIAL",
+    "title": "DRDO Recruitment and Assessment Centre (RAC) Portal",
+    "url": "https://rac.gov.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_BARC_OFFICIAL",
+    "title": "BARC Training Schools OCES/DGFS Information Portal",
+    "url": "https://barcocesexam.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_NIC_OFFICIAL",
+    "title": "National Informatics Centre MeitY Recruitment Archive",
+    "url": "https://www.calicut.nielit.in/nic",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_UGC_NET_OFFICIAL",
+    "title": "NTA UGC National Eligibility Test Portal",
+    "url": "https://ugcnet.nta.ac.in",
+    "domain_type": "Government",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_GRE_OFFICIAL",
+    "title": "ETS Official GRE General Test Information Bulletin",
+    "url": "https://www.ets.org/gre",
+    "domain_type": "International_Body",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_GMAT_OFFICIAL",
+    "title": "GMAC Official GMAT Focus Edition Exam Blueprint",
+    "url": "https://www.mba.com/exams/gmat-focus-edition",
+    "domain_type": "International_Body",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_TOEFL_OFFICIAL",
+    "title": "ETS Official TOEFL iBT Information Bulletin",
+    "url": "https://www.ets.org/toefl",
+    "domain_type": "International_Body",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_IELTS_OFFICIAL",
+    "title": "IELTS Official Academic Testing Framework",
+    "url": "https://www.ielts.org",
+    "domain_type": "International_Body",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_AWS_OFFICIAL",
+    "title": "AWS Certified Solutions Architect Exam Guide",
+    "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_AZURE_OFFICIAL",
+    "title": "Microsoft Learn Azure Solutions Architect Expert Certification",
+    "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_GCP_OFFICIAL",
+    "title": "Google Cloud Professional Cloud Architect Certification Guide",
+    "url": "https://cloud.google.com/learn/certification/cloud-architect",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_COMPTIA_SEC_OFFICIAL",
+    "title": "CompTIA Security+ SY0-701 Exam Objectives",
+    "url": "https://www.comptia.org/certifications/security",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_CISCO_CCNA_OFFICIAL",
+    "title": "Cisco CCNA 200-301 Official Blueprint",
+    "url": "https://www.cisco.com/c/en/us/training-events/career-certifications/associate/ccna.html",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_REDHAT_RHCSA_OFFICIAL",
+    "title": "Red Hat Certified System Administrator (EX200) Exam Objectives",
+    "url": "https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_K8S_CKA_OFFICIAL",
+    "title": "CNCF Certified Kubernetes Administrator (CKA) Curriculum",
+    "url": "https://www.cncf.io/certification/cka/",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_OFFSEC_OSCP_OFFICIAL",
+    "title": "OffSec PEN-200 / OSCP Certification Syllabus",
+    "url": "https://www.offsec.com/courses/pen-200/",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_ISC2_CISSP_OFFICIAL",
+    "title": "(ISC)\u00b2 CISSP Common Body of Knowledge (CBK)",
+    "url": "https://www.isc2.org/certifications/cissp",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_NPTEL_OFFICIAL",
+    "title": "NPTEL SWAYAM Course & Certification Guidelines",
+    "url": "https://nptel.ac.in",
+    "domain_type": "Academic",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_PMI_PMP_OFFICIAL",
+    "title": "PMI Project Management Professional Exam Content Outline",
+    "url": "https://www.pmi.org/certifications/project-management-pmp",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  },
+  {
+    "id": "SRC_CFA_OFFICIAL",
+    "title": "CFA Institute Program Candidate Body of Knowledge",
+    "url": "https://www.cfainstitute.org/en/programs/cfa",
+    "domain_type": "Vendor_Official",
+    "last_accessed": "2026-11-16"
+  }
+]

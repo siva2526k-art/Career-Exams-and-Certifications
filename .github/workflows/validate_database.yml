@@ -1,0 +1,32 @@
+name: Database Schema & Integrity Validation
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Validation Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jsonschema
+
+      - name: Run Database Validation Script
+        run: |
+          python 10_Automation/scripts/validate_database.py
+
+      - name: Generate Summary Metrics
+        run: |
+          python 10_Automation/scripts/generate_summary_metrics.py
