@@ -1,6 +1,7 @@
 # 04. Career Pathways & Compensation Frameworks
 
 Systematic mapping of educational degrees and test qualifications to real-world employment:
+- **`Tamil_Nadu_Government_and_Aided_Tech_Jobs_Guide.md`**: Authoritative master guide to Tamil Nadu State Government examinations (TNPSC CTS, TNEB, TNUSRB Technical SI, TRB, TNeGA) and Government-Aided engineering/arts colleges (PSG Tech, CIT, TCE, Loyola, MCC).
 - **`AI_ML_and_Software_Developer_Government_Jobs_Guide.md`**: Dedicated comprehensive guide to Developer, AI/ML, Data Science, and Robotics roles across DRDO, ISRO, BARC, NIC, SEBI, CRIS, and Maharatna PSUs.
 - **`Career_Eligibility_Matrix.md`**: Master cross-mapping from 10th pass to working professionals.
 - **`Government_Jobs/`**: Group A/B/C classification, 7th Central Pay Commission (CPC) Pay Matrix.
