@@ -1,60 +1,81 @@
 # NPTEL Elite + Gold Domain Scholar Certification
 
 ## Overview
-- **Full Certification Name:** NPTEL Elite + Gold Domain Scholar Certification
-- **Issuing Organization:** NPTEL / IIT Madras (ORG_NPTEL)
-- **Certification Category:** Academic
-- **Certification Level:** Specialty
-- **Official Website:** [https://nptel.ac.in](https://nptel.ac.in)
+- **Full Certification Name:** NPTEL Domain Scholar in Artificial Intelligence / Data Science (Elite + Gold)
+- **Issuing Organization:** National Programme on Technology Enhanced Learning (NPTEL) / Ministry of Education, Govt. of India / IIT Madras (ORG_NPTEL)
+- **Certification Category:** Academic & Professional
+- **Certification Level:** Specialty / Advanced Domain Scholar
+- **Official Website:** [https://nptel.ac.in/domain](https://nptel.ac.in/domain)
 
 ## Eligibility
-- **Prerequisites:** Completion of 6 approved 12-week core courses in domain with score >= 90%
-- **Recommended Experience:** At least 6 months to 2 years of hands-on experience working directly with NPTEL / IIT Madras platforms, tools, and real-world architectures.
-- **Educational Requirements:** No mandatory formal degree required; open to students, entry-level engineers, and experienced professionals worldwide.
+- **Prerequisites:** Completion of 6 approved courses (Core + Electives) within a maximum span of 3 consecutive years (6 exam cycles).
+- **Minimum Passing Standard:** Minimum 60% average score in each course to qualify for "Elite" status and the official "Domain Scholar" title.
+- **Elite + Gold Criteria:** Scaled score of $\ge 90\%$ in individual courses, often placing the candidate in the top 1% or 2% nationwide.
+- **Educational Requirements:** Open to all undergraduate/postgraduate students (B.E./B.Tech/B.Sc/M.E./M.Tech/MCA/M.Sc) and working professionals across India and internationally.
 
 ## Examination
-- **Examination Code:** NPTEL-GOLD
-- **Examination Duration:** 90 to 130 minutes (depending on exam level and accommodation for non-native English speakers).
-- **Number of Questions:** 50 to 65 questions.
-- **Examination Format:** Multiple-choice (one correct option), multiple-response (two or more correct options), and performance-based scenario questions.
-- **Passing Criteria:** Scaled score (typically 700–750 out of 1000, or 70%+ aggregate).
-- **Examination Fee:** ₹1000 INR (plus applicable local statutory taxes; student and partner vouchers frequently available).
+- **Examination Code:** NPTEL-GOLD / NPTEL-AI-DOMAIN
+- **Examination Duration:** 180 minutes (3 hours) per course proctored examination.
+- **Number of Questions:** 50 to 75 questions per course (combination of MCQs, Multiple-Select Questions, and Fill-in-the-Blank numericals).
+- **Examination Format:** In-person proctored computer-based test (CBT) administered nationwide by TCS iON at authorized secure test centers.
+- **Passing Criteria:** Total score = $25\%$ Assignment Score (Best 8 of 12 weekly assignments) + $75\%$ Final Proctored Exam Score. Both must satisfy minimum cutoff thresholds (minimum 10/25 in assignments and 30/75 in final exam).
+  - Score $\ge 90\%$: **Elite + Gold** (Top tier)
+  - Score $75\% - 89\%$: **Elite + Silver**
+  - Score $60\% - 74\%$: **Elite**
+  - Score $40\% - 59\%$: **Successfully Completed**
+- **Examination Fee:** ₹1,000 INR per course exam (~₹6,000 INR total across 6 courses; 50% fee waiver for SC/ST/PwD candidates under SWAYAM).
 
-## Curriculum
-- **Complete Syllabus Domains:**
-  - **Domain 1: Core Architecture & Platform Design** (30%) — Implementing scalable, highly available, fault-tolerant infrastructure and workflows.
-  - **Domain 2: Security & Governance** (25%) — Identity and Access Management (IAM), data encryption at rest and in transit, regulatory compliance.
-  - **Domain 3: High-Performance Operations & Deployment** (25%) — Automated provisioning, container orchestration, monitoring, logging, and incident mitigation.
-  - **Domain 4: Cost Optimization & Resource Efficiency** (20%) — Budget monitoring, rightsizing compute/storage resources, license management.
-- **Learning Objectives:** Validate industry-standard best practices, design principles, and direct problem-solving capabilities in modern enterprise environments.
+## Curriculum: Official Artificial Intelligence Domain Structure
+To qualify as an **NPTEL Domain Scholar in Artificial Intelligence**, learners complete 6 curated courses (4 Core + 2 Electives):
 
-## Validity
-- **Certification Validity Period:** Lifetime (No expiry)
-- **Renewal Requirements:** Retaking the current version of the examination or passing a higher-tier expert/specialty exam from the same vendor before the expiration date.
-- **Renewal Cost:** Recertification discount vouchers (typically 50% off) provided by the issuing vendor.
-- **Continuing Education Requirements:** Submission of verified Continuing Professional Education (CPE) or Continuing Education Units (CEU) where applicable.
+### Mandatory Core Courses (Pick 4)
+1. **Artificial Intelligence: Search Methods for Problem Solving** (IIT Madras – Prof. Deepak Khemani, 12 Weeks)
+   - State space search, uninformed & heuristic search (A*, IDA*), adversarial games, constraint satisfaction, propositional and first-order logic.
+2. **Introduction to Machine Learning** (IIT Madras – Prof. Balaraman Ravindran OR IIT Kharagpur – Prof. Sudeshna Sarkar, 12 Weeks)
+   - Linear regression, logistic regression, decision trees, support vector machines (SVM), kernel methods, clustering, dimensionality reduction (PCA), bias-variance tradeoff.
+3. **Deep Learning** (IIT Kharagpur – Prof. Prabir Kumar Biswas OR IIT Madras – Prof. Mitesh Khapra, 12 Weeks)
+   - Multilayer perceptrons, backpropagation, CNN architectures (ResNet, VGG), RNN/LSTM/GRU, attention mechanisms, autoencoders, GANs, PyTorch implementation.
+4. **Python for Data Science / Programming in Python** (IIT Madras – Prof. Ragunathan Rengaswamy / Prof. Madhavan Mukund, 8 to 12 Weeks)
+   - Python ecosystem (NumPy, Pandas, Matplotlib, Scipy), algorithmic complexity, data structures, scientific computing workflows.
 
-## Preparation
-- **Official Learning Resources:** Comprehensive vendor learning paths, official documentation, whitepapers, and free digital training modules at [https://nptel.ac.in](https://nptel.ac.in).
-- **Free Courses & Study Guides:** Community GitHub study repositories, free open workshops, and YouTube deep-dive architectural series.
-- **Paid Courses:** Premier structured courses on Udemy, Coursera, A Cloud Guru / Pluralsight, and Whizlabs.
-- **Practice Examinations:** Official practice question sets and timed exam simulator tests.
-- **Recommended Books:** Official Study Guide and Exam Review Manual published by Sybex / Wiley / O'Reilly.
+### Elective Courses (Pick 2)
+1. **Natural Language Processing (NLP)** (IIT Kharagpur – Prof. Pawan Goyal, 12 Weeks)
+   - Language modeling, Word2Vec, GloVe, sequence-to-sequence models, Transformers, BERT, Named Entity Recognition, machine translation.
+2. **Reinforcement Learning** (IIT Madras – Prof. Balaraman Ravindran, 12 Weeks)
+   - Markov Decision Processes (MDP), Dynamic Programming, Monte Carlo methods, Temporal Difference learning (Q-learning, SARSA), Policy Gradient methods, Actor-Critic, Deep Q-Networks (DQN).
+3. **Computer Vision** (IIT Kharagpur – Prof. Jayanta Mukherjee, 12 Weeks)
+   - Image formation, filtering, edge detection, feature extraction (SIFT, SURF), object detection (YOLO, Faster R-CNN), image segmentation.
+4. **Applied Linear Algebra in AI and Machine Learning** (IIT Kharagpur – Prof. Swanand Khare, 12 Weeks)
+   - Vector spaces, spectral decomposition, SVD, matrix factorizations, optimization and gradient methods for machine learning.
 
-## Career Value
-- **Relevant Job Roles:** Cloud Architect, DevOps Engineer, Systems Administrator, Security Analyst, Solutions Engineer, Full-Stack Developer.
-- **Industry Recognition & Demand:** Globally recognized as a gold-standard industry benchmark; frequently cited as a preferred qualification in enterprise job listings.
-- **Required Hands-on Skills:** Cloud infrastructure design, infrastructure-as-code (Terraform/CloudFormation), CI/CD pipelines, containerization (Docker/Kubernetes), and security configuration.
-- **Career Progression:** Serves as a gateway to Senior Architect, Lead Infrastructure Engineer, Principal Consultant, and Chief Information Security Officer (CISO) roles.
-- **Related / Upstream Certifications:** Upstream Professional, Expert, and Specialty credentials within the NPTEL / IIT Madras certification ecosystem.
+## Validity & Recognition
+- **Certification Validity Period:** Lifetime (No expiration).
+- **Official Credentials Issued:**
+  - Individual verified e-certificates for each course carrying QR codes and photos, signed by Dean/Professors of IIT Madras / IIT Kharagpur.
+  - Final **NPTEL Domain Scholar in Artificial Intelligence** comprehensive e-certificate and digital badge.
+- **Academic Credit Transfer (NEP 2020 / UGC SWAYAM Regulations):**
+  - UGC and AICTE permit credit transfer of up to 20%–40% towards degree coursework.
+  - Anna University, state universities, and autonomous engineering colleges in Tamil Nadu and across India formally map NPTEL 8-week (2 credits) and 12-week (3 or 4 credits) courses to curriculum electives.
 
-## Comparison
-- **Alternative Certifications:** Competing associate/expert credentials from AWS, Microsoft Azure, Google Cloud, Cisco, and CompTIA.
-- **Beginner Alternatives:** Foundational credentials (e.g. AWS Certified Cloud Practitioner, Microsoft AZ-900, CompTIA IT Fundamentals).
-- **Advanced Alternatives:** Professional & Specialty credentials (e.g. Solutions Architect Professional, DevOps Engineer Professional, CKS, CISSP).
+## Career Value & Government Exam Edge
+- **Public Sector & Scientific Research Interviews (DRDO, ISRO, BARC, DAE):**
+  - In technical interviews for DRDO RAC Scientist 'B' (CAIR, DYSL-AI) and BARC OCES/DGFS, an Elite + Gold certification signed by pioneering IIT faculty (like Prof. Balaraman Ravindran) provides immediate technical credibility that outshines generic third-party certificates.
+- **Corporate Placement & MNC R&D Labs:**
+  - NPTEL Toppers and Domain Scholars are invited to dedicated NPTEL Industry Placement Portals where recruiters (TCS Research, Robert Bosch, Morgan Stanley, IBM Research, Cognizant) hire directly.
+- **Postgraduate Research Admissions (M.S. / M.Tech by Research / Ph.D.):**
+  - Demonstrates proven ability to handle IIT-level postgraduate coursework, giving an edge in written tests and interviews at IIT Madras (RBCDSAI), IISc, and IIT Bombay.
+
+## Comparison with Commercial Certifications
+| Attribute | NPTEL AI Domain Scholar | AWS Certified ML Specialty | Google Cloud Professional ML Engineer |
+| :--- | :--- | :--- | :--- |
+| **Total Cost** | ~₹6,000 INR (6 courses) | ~$300 USD (~₹25,000 INR) | ~$200 USD (~₹17,000 INR) |
+| **Curriculum Focus** | Deep Mathematical Foundations & Algorithms | Cloud Services, Sagemaker, Deployment | Vertex AI, Google Cloud ML Pipeline |
+| **Academic Credit** | Yes (UGC / AICTE Approved) | No | No |
+| **Indian PSU/DRDO Value** | Very High (IIT Faculty Endorsed) | Moderate (Cloud Ops focus) | Moderate (Cloud Ops focus) |
+| **Exam Rigor** | High (12 Weeks + TCS iON Exam) | Moderate (2 Hours Scenario MCQs) | Moderate (2 Hours Scenario MCQs) |
 
 ## Verification
-- **Official Sources:** [Official Vendor Examination Guide](https://nptel.ac.in)
-- **Last Verified Date:** 2026-11-16
-- **Current Exam Version:** Semester Proctored Exam Cycle
+- **Official Sources:** [SRC_NPTEL_OFFICIAL](https://nptel.ac.in)
+- **Last Verified Date:** 2026-11-17
+- **Current Exam Version:** SWAYAM Proctored Semester Examination
 - **Verification Status:** Verified

@@ -122,8 +122,3 @@
 | **PMP-ECO** | Project Management Professional | Project Management Inst. | Professional | **7.5 / 10** | 180 Scenario Questions (230 mins) | $425 USD | 3 Years (60 PDUs) | Senior Project Manager, Technical Program Manager |
 | **CFA-L123** | Chartered Financial Analyst (Levels 1, 2, 3) | CFA Institute | Expert | **9.0 / 10** | 3 Sequential Rigorous Multi-Hour Exams | $1,250 USD | **Lifetime** | Financial Risk Manager, SEBI/RBI Capital Analyst |
 | **PSM-I** | Professional Scrum Master I | Scrum.org | Associate | **5.0 / 10** | 80 MCQs (85% passing score, 60 mins) | $150 USD | **Lifetime** | Scrum Master, Agile Delivery Lead |
-"""
-
-doc_path = REPO_ROOT / "02_Professional_Certifications" / "Domain_Grouped_Certifications_and_Codes.md"
-doc_path.write_text(content, encoding="utf-8")
-print(f"[+] Successfully generated Domain Grouped Certifications and Codes catalog at: {doc_path}")
